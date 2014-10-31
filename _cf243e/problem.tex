@@ -1,0 +1,77 @@
+\documentclass[UTF8]{ctexart}
+	\title{Matrix}
+	\author{唐适之}
+	\date{时间限制2s，空间限制256M}
+	\newcommand{\myparagraph}[1]{\paragraph{#1}\mbox{}\\}
+	\usepackage[top=1in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+
+\begin{document}
+	
+	\maketitle
+	
+	\myparagraph{问题描述}
+		
+		考虑一个大小为 n×n 的，仅包含0、1的矩阵，当此矩阵满足以下条件时，此矩阵称为好的：在每一行中，所有的1都靠在一起。即，每一行都形如00...0011...1100...00（有可能是全部为0或全部为1）
+		
+		给你一个 n×n 的仅包含0、1的矩阵a，你的任务是判断是否能够通过重新排列某些列使得这个矩阵变成好的矩阵b。
+		
+	\myparagraph{输入格式}
+	
+		第一行包含一个整数n，表示矩阵a的大小。
+		
+		接下来n行每行n个字符0或1，表示矩阵a。注意字符间没有空格。
+		
+	\myparagraph{输出格式}
+		
+		如果a可以通过重新排列某些列变成好的矩阵b，在第一行输出"YES"（不包含引号），在接下来的n行输出矩阵b。如果有多个矩阵b满足要求，输出任意一个即可。
+		
+		如果a不能变成好的，只输出一行一个字符串"NO"（不包含引号）。
+		
+	\myparagraph{样例输入}
+	
+		\begin{verbatim}
+			样例输入1
+
+			6
+			100010
+			110110
+			011001
+			010010
+			000100
+			011001
+
+			样例输入2
+
+			3
+			110
+			101
+			011
+		\end{verbatim}
+		
+	\myparagraph{样例输出}
+
+		\begin{verbatim}
+			样例输出1
+
+			YES
+			011000
+			111100
+			000111
+			001100
+			100000
+			000111
+
+			样例输出2
+
+			NO
+\end{verbatim}
+	
+	\myparagraph{数据规模和约定}
+	
+		对于20\%的数据，n≤9。
+		
+		对于40\%的数据，n≤24。
+		
+		对于100\%的数据，n≤500。
+		
+\end{document}
