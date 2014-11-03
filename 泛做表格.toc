@@ -113,7 +113,11 @@
 \contentsline {paragraph}{题目大意}{28}
 \contentsline {paragraph}{算法讨论}{28}
 \contentsline {paragraph}{时空复杂度}{29}
-\contentsline {section}{\numberline {29}USACO 2012 Dec gold 2 - First!}{29}
+\contentsline {section}{\numberline {29}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{29}
 \contentsline {paragraph}{题目大意}{29}
 \contentsline {paragraph}{算法讨论}{29}
+\contentsline {paragraph}{时空复杂度}{29}
+\contentsline {section}{\numberline {30}USACO 2012 Dec gold 2 - First!}{30}
+\contentsline {paragraph}{题目大意}{30}
+\contentsline {paragraph}{算法讨论}{30}
 \contentsline {paragraph}{时空复杂度}{30}
