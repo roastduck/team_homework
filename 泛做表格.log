@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  4 NOV 2014 08:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  4 NOV 2014 19:58
 entering extended mode
 **E:/集训队作业/team_homework/泛做表格.tex
 (E:/集训队作业/team_homework/泛做表格.tex
@@ -1472,59 +1472,86 @@ Underfull \hbox (badness 10000) in paragraph at lines 638--639
 
  []
 
-<figgcj2014c_1.png, id=323, 474.77374pt x 249.93375pt>
+<figgcj2013a_1.png, id=323, 350.30875pt x 243.91125pt>
+File: figgcj2013a_1.png Graphic file (type png)
+ <use figgcj2013a_1.png>
+Package pdftex.def Info: figgcj2013a_1.png used on input line 644.
+(pdftex.def)             Requested size: 346.89732pt x 241.55103pt.
+
+<figgcj2013a_2.png, id=324, 255.95625pt x 262.9825pt>
+File: figgcj2013a_2.png Graphic file (type png)
+ <use figgcj2013a_2.png>
+Package pdftex.def Info: figgcj2013a_2.png used on input line 652.
+(pdftex.def)             Requested size: 260.17465pt x 267.3317pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+
+ []
+
+[26 <E:/集训队作业/team_homework/figgcj2013a_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 664--665
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--669
+
+ []
+
+<figgcj2014c_1.png, id=328, 474.77374pt x 249.93375pt>
 File: figgcj2014c_1.png Graphic file (type png)
  <use figgcj2014c_1.png>
-Package pdftex.def Info: figgcj2014c_1.png used on input line 644.
+Package pdftex.def Info: figgcj2014c_1.png used on input line 674.
 (pdftex.def)             Requested size: 346.89732pt x 182.62173pt.
 
-<figgcj2014c_2.png, id=324, 455.7025pt x 401.5pt>
+<figgcj2014c_2.png, id=329, 455.7025pt x 401.5pt>
 File: figgcj2014c_2.png Graphic file (type png)
  <use figgcj2014c_2.png>
-Package pdftex.def Info: figgcj2014c_2.png used on input line 650.
+Package pdftex.def Info: figgcj2014c_2.png used on input line 680.
 (pdftex.def)             Requested size: 346.89732pt x 305.64552pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 667--668
-
- []
-
-[26 <E:/集训队作业/team_homework/figgcj2014c_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 673--674
+[27 <E:/集训队作业/team_homework/figgcj2013a_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 697--698
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 677--678
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
 
  []
 
-[27 <E:/集训队作业/team_homework/figgcj2014c_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 681--682
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 698--699
+[28 <E:/集训队作业/team_homework/figgcj2014c_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 707--708
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 704--705
+Underfull \hbox (badness 10000) in paragraph at lines 711--712
+
+ []
+
+[29 <E:/集训队作业/team_homework/figgcj2014c_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 728--729
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 708--709
-
- []
-
-[28]
 Underfull \hbox (badness 10000) in paragraph at lines 734--735
 
  []
 
 
-Overfull \hbox (8.47507pt too wide) in paragraph at lines 736--737
+Underfull \hbox (badness 10000) in paragraph at lines 738--739
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 764--765
+
+ []
+
+
+Overfull \hbox (8.47507pt too wide) in paragraph at lines 766--767
 []\C70/rm/m/n/10.54/4e � \C70/rm/m/n/10.54/52  \C70/rm/m/n/10.54/7b T \C70/rm/
 m/n/10.54/68 H$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 ([][] \OML/cmm/m/it/10.5
 4 N\OT1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/67 � \C70/rm
@@ -1537,52 +1564,52 @@ OML/cmm/m/it/10.54 j\OT1/cmr/m/n/10.54 ) = \OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 740--741
-
- []
-
-[29]
-Underfull \hbox (badness 10000) in paragraph at lines 744--745
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 764--765
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 770--771
 
  []
 
-[30]
+
 Underfull \hbox (badness 10000) in paragraph at lines 774--775
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 778--779
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 784--785
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 794--795
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 788--789
+Underfull \hbox (badness 10000) in paragraph at lines 800--801
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 792--793
+Underfull \hbox (badness 10000) in paragraph at lines 804--805
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 808--809
 
  []
 
 
-Overfull \hbox (0.91167pt too wide) in paragraph at lines 794--795
+Underfull \hbox (badness 10000) in paragraph at lines 814--815
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--819
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--823
+
+ []
+
+
+Overfull \hbox (0.91167pt too wide) in paragraph at lines 824--825
 []\C70/rm/m/n/10.54/5e �\OT1/cmr/m/n/10.54 TRIE\C70/rm/m/n/10.54/65 � \C70/rm/m
 /n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 l\OT
 1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/90 M \C70/rm/m/n/1
@@ -1599,7 +1626,7 @@ m/m/it/10.54 n\OMS/cmsy/m/n/10.54 j\OT1/cmr/m/n/10.54 \OMS/cmsy/m/n/10.54 j\OT
 1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff |
  []
 
-[31]
+[33]
 \tf@thm=\write4
  (E:\集训队作业\team_homework\泛做表格.aux)
 
@@ -1608,10 +1635,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 13224 strings out of 495354
- 210606 string characters out of 3183075
+ 13234 strings out of 495354
+ 210723 string characters out of 3183075
  240308 words of memory out of 3000000
- 15778 multiletter control sequences out of 15000+200000
+ 15795 multiletter control sequences out of 15000+200000
  57148 words of font info for 197 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  40i,13n,28p,1262b,1656s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1684,9 +1711,9 @@ fb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><D:/P
 rogram Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Program F
 iles/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Program Files/CT
 EX/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on 泛做表格.pdf (31 pages, 1163082 bytes).
+Output written on 泛做表格.pdf (33 pages, 1214246 bytes).
 PDF statistics:
- 850 PDF objects out of 1000 (max. 8388607)
+ 859 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 331 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 341 words of extra memory for PDF output out of 10000 (max. 10000000)
 

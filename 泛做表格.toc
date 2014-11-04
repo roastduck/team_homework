@@ -101,27 +101,31 @@
 \contentsline {paragraph}{题目大意}{25}
 \contentsline {paragraph}{算法讨论}{25}
 \contentsline {paragraph}{时空复杂度}{25}
-\contentsline {section}{\numberline {26}CodeJam 2014 Finals C - Symmetric Trees}{25}
+\contentsline {section}{\numberline {26}CodeJam 2013 Finals A - Graduation Requirements}{25}
 \contentsline {paragraph}{题目大意}{25}
 \contentsline {paragraph}{算法讨论}{26}
-\contentsline {paragraph}{时空复杂度}{27}
-\contentsline {section}{\numberline {27}CodeJam 2014 Finals D - Paradox Sort}{27}
+\contentsline {paragraph}{时空复杂度}{26}
+\contentsline {section}{\numberline {27}CodeJam 2014 Finals C - Symmetric Trees}{27}
 \contentsline {paragraph}{题目大意}{27}
 \contentsline {paragraph}{算法讨论}{27}
 \contentsline {paragraph}{时空复杂度}{28}
-\contentsline {section}{\numberline {28}CodeJam 2014 Finals E - Allergy Testing}{28}
+\contentsline {section}{\numberline {28}CodeJam 2014 Finals D - Paradox Sort}{28}
 \contentsline {paragraph}{题目大意}{28}
 \contentsline {paragraph}{算法讨论}{29}
-\contentsline {paragraph}{时空复杂度}{29}
-\contentsline {section}{\numberline {29}CodeJam 2014 Finals F - ARAM}{30}
+\contentsline {paragraph}{时空复杂度}{30}
+\contentsline {section}{\numberline {29}CodeJam 2014 Finals E - Allergy Testing}{30}
 \contentsline {paragraph}{题目大意}{30}
 \contentsline {paragraph}{算法讨论}{30}
-\contentsline {paragraph}{时空复杂度}{30}
-\contentsline {section}{\numberline {30}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{31}
+\contentsline {paragraph}{时空复杂度}{31}
+\contentsline {section}{\numberline {30}CodeJam 2014 Finals F - ARAM}{31}
 \contentsline {paragraph}{题目大意}{31}
 \contentsline {paragraph}{算法讨论}{31}
-\contentsline {paragraph}{时空复杂度}{31}
-\contentsline {section}{\numberline {31}USACO 2012 Dec gold 2 - First!}{31}
-\contentsline {paragraph}{题目大意}{31}
-\contentsline {paragraph}{算法讨论}{31}
-\contentsline {paragraph}{时空复杂度}{31}
+\contentsline {paragraph}{时空复杂度}{32}
+\contentsline {section}{\numberline {31}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{32}
+\contentsline {paragraph}{题目大意}{32}
+\contentsline {paragraph}{算法讨论}{32}
+\contentsline {paragraph}{时空复杂度}{33}
+\contentsline {section}{\numberline {32}USACO 2012 Dec gold 2 - First!}{33}
+\contentsline {paragraph}{题目大意}{33}
+\contentsline {paragraph}{算法讨论}{33}
+\contentsline {paragraph}{时空复杂度}{33}
