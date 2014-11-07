@@ -105,27 +105,31 @@
 \contentsline {paragraph}{题目大意}{25}
 \contentsline {paragraph}{算法讨论}{26}
 \contentsline {paragraph}{时空复杂度}{26}
-\contentsline {section}{\numberline {27}CodeJam 2014 Finals C - Symmetric Trees}{27}
+\contentsline {section}{\numberline {27}CodeJam 2013 Finals C - X Marks the Spot}{27}
 \contentsline {paragraph}{题目大意}{27}
 \contentsline {paragraph}{算法讨论}{27}
 \contentsline {paragraph}{时空复杂度}{28}
-\contentsline {section}{\numberline {28}CodeJam 2014 Finals D - Paradox Sort}{28}
+\contentsline {section}{\numberline {28}CodeJam 2014 Finals C - Symmetric Trees}{28}
 \contentsline {paragraph}{题目大意}{28}
+\contentsline {paragraph}{算法讨论}{28}
+\contentsline {paragraph}{时空复杂度}{29}
+\contentsline {section}{\numberline {29}CodeJam 2014 Finals D - Paradox Sort}{29}
+\contentsline {paragraph}{题目大意}{29}
 \contentsline {paragraph}{算法讨论}{29}
-\contentsline {paragraph}{时空复杂度}{30}
-\contentsline {section}{\numberline {29}CodeJam 2014 Finals E - Allergy Testing}{30}
-\contentsline {paragraph}{题目大意}{30}
-\contentsline {paragraph}{算法讨论}{30}
 \contentsline {paragraph}{时空复杂度}{31}
-\contentsline {section}{\numberline {30}CodeJam 2014 Finals F - ARAM}{31}
+\contentsline {section}{\numberline {30}CodeJam 2014 Finals E - Allergy Testing}{31}
 \contentsline {paragraph}{题目大意}{31}
 \contentsline {paragraph}{算法讨论}{31}
 \contentsline {paragraph}{时空复杂度}{32}
-\contentsline {section}{\numberline {31}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{32}
+\contentsline {section}{\numberline {31}CodeJam 2014 Finals F - ARAM}{32}
 \contentsline {paragraph}{题目大意}{32}
 \contentsline {paragraph}{算法讨论}{32}
 \contentsline {paragraph}{时空复杂度}{33}
-\contentsline {section}{\numberline {32}USACO 2012 Dec gold 2 - First!}{33}
+\contentsline {section}{\numberline {32}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{33}
 \contentsline {paragraph}{题目大意}{33}
 \contentsline {paragraph}{算法讨论}{33}
-\contentsline {paragraph}{时空复杂度}{33}
+\contentsline {paragraph}{时空复杂度}{34}
+\contentsline {section}{\numberline {33}USACO 2012 Dec gold 2 - First!}{34}
+\contentsline {paragraph}{题目大意}{34}
+\contentsline {paragraph}{算法讨论}{34}
+\contentsline {paragraph}{时空复杂度}{34}
