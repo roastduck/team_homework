@@ -1,5 +1,6 @@
 #include<cstdio>
 #include<cstring>
+#include<set>
 #include<map>
 #include<algorithm>
 using namespace std;
@@ -11,10 +12,10 @@ typedef pair<int,int> PI;
 #define se second
 #define mkp(x,y) make_pair(x,y)
 
-int N, M, K, Sn;
+int N, M, K;
 long long ans;
-map<int,int> A[maxn<<1], B[maxn<<1];
-pair<PI,int> SS[maxn*10];
+set<int> A[maxn<<1], B[maxn<<1];
+map<PI,int> S;
 
 #define NE 1
 #define SE 2
@@ -24,24 +25,25 @@ pair<PI,int> SS[maxn*10];
 #define R(x,k) ((x)>>(4-(k))?(x)>>(4-(k)):(x)<<(k))
 #define oA(x,y) ((x)+(y))
 #define oB(x,y) ((x)-(y)+M)
-#define INS(x,y,v) (SS[Sn++]=mkp(PI(x,y),v))
+#define INS(x,y,v) (S.insert(mkp(PI(x,y),0)).fi->se|=(v))
 
 int GO(int X, int Y, int D)
 {
 	int Sx(X), Sy(Y), Sd(D);
-	A[oA(X,Y)].insert(PI(oB(X,Y),0));
-	B[oB(X,Y)].insert(PI(oA(X,Y),0));
-	map<int,int>::iterator NEW;
+	INS(X,Y,0);
+	A[oA(X,Y)].insert(oB(X,Y));
+	B[oB(X,Y)].insert(oA(X,Y));
+	set<int>::iterator NEW;
 	NEW=(D==NE || D==SW? A[oA(X,Y)].find(oB(X,Y)): B[oB(X,Y)].find(oA(X,Y)));
 	do
 	{
-		int d=NEW->se, dis;
+		int d=S[PI(X,Y)], dis;
 		if (d==(D|L(D,1))) D=R(D,1); else
 		if (d==(D|R(D,1))) D=L(D,1); else
 		if ((__builtin_popcount(d)&1) && (d&D)==D) return true;
 		NEW=(D==NE || D==SW? A[oA(X,Y)].find(oB(X,Y)): B[oB(X,Y)].find(oA(X,Y)));
 		if (D==NE || D==NW) NEW--; else NEW++;
-		dis=abs((D==NE || D==SW? oB(X,Y): oA(X,Y))-NEW->fi)/2;
+		dis=abs((D==NE || D==SW? oB(X,Y): oA(X,Y))-*NEW)/2;
 		ans+=dis;
 		if (D==SE || D==SW) X+=dis; else X-=dis;
 		if (D==NE || D==SE) Y+=dis; else Y-=dis;
@@ -64,24 +66,10 @@ int main()
 	for (int i=1;i<N;i++) INS(i,0,NW|SW), INS(i,M,NE|SE);
 	INS(0,0,SW|NW|NE), INS(0,M,NW|NE|SE);
 	INS(N,0,NW|SW|SE), INS(N,M,SW|SE|NE);
-	sort(SS,SS+Sn);
-	PI cur(-1,-1);
-	int tot(0);
-	for (int i=0;i<Sn;i++)
-		if (SS[i].fi!=cur)
-		{
-			if (i)
-			{
-				A[oA(cur.fi,cur.se)].insert(PI(oB(cur.fi,cur.se),tot));
-				B[oB(cur.fi,cur.se)].insert(PI(oA(cur.fi,cur.se),tot));
-			}
-			tot=SS[i].se, cur=SS[i].fi;
-		} else
-			tot|=SS[i].se;
-	if (cur.fi!=-1)
+	for (map<PI,int>::iterator i=S.begin(); i!=S.end(); i++)
 	{
-		A[oA(cur.fi,cur.se)].insert(PI(oB(cur.fi,cur.se),tot));
-		B[oB(cur.fi,cur.se)].insert(PI(oA(cur.fi,cur.se),tot));
+		A[oA(i->fi.fi,i->fi.se)].insert(oB(i->fi.fi,i->fi.se));
+		B[oB(i->fi.fi,i->fi.se)].insert(oA(i->fi.fi,i->fi.se));
 	}
 	int X, Y, D;
 	char s[3];
