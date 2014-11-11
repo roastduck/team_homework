@@ -97,43 +97,47 @@
 \contentsline {subparagraph}{(2)}{24}
 \contentsline {subparagraph}{(3)}{24}
 \contentsline {paragraph}{时空复杂度}{24}
-\contentsline {section}{\numberline {25}CodeJam 2011 Finals C - Program within a Program}{24}
+\contentsline {section}{\numberline {25}CodeJam 2011 Finals A - Runs}{24}
 \contentsline {paragraph}{题目大意}{24}
-\contentsline {paragraph}{算法讨论}{25}
-\contentsline {paragraph}{图灵机规模}{25}
-\contentsline {section}{\numberline {26}CodeJam 2012 Finals D - Twirling Towards Freedom}{25}
+\contentsline {paragraph}{算法讨论}{24}
+\contentsline {paragraph}{时空复杂度}{25}
+\contentsline {section}{\numberline {26}CodeJam 2011 Finals C - Program within a Program}{25}
 \contentsline {paragraph}{题目大意}{25}
-\contentsline {paragraph}{算法讨论}{26}
-\contentsline {paragraph}{时空复杂度}{26}
-\contentsline {section}{\numberline {27}CodeJam 2013 Finals A - Graduation Requirements}{26}
+\contentsline {paragraph}{算法讨论}{25}
+\contentsline {paragraph}{图灵机规模}{26}
+\contentsline {section}{\numberline {27}CodeJam 2012 Finals D - Twirling Towards Freedom}{26}
 \contentsline {paragraph}{题目大意}{26}
 \contentsline {paragraph}{算法讨论}{26}
 \contentsline {paragraph}{时空复杂度}{27}
-\contentsline {section}{\numberline {28}CodeJam 2013 Finals C - X Marks the Spot}{27}
+\contentsline {section}{\numberline {28}CodeJam 2013 Finals A - Graduation Requirements}{27}
 \contentsline {paragraph}{题目大意}{27}
 \contentsline {paragraph}{算法讨论}{27}
-\contentsline {paragraph}{时空复杂度}{28}
-\contentsline {section}{\numberline {29}CodeJam 2014 Finals C - Symmetric Trees}{29}
+\contentsline {paragraph}{时空复杂度}{27}
+\contentsline {section}{\numberline {29}CodeJam 2013 Finals C - X Marks the Spot}{28}
+\contentsline {paragraph}{题目大意}{28}
+\contentsline {paragraph}{算法讨论}{28}
+\contentsline {paragraph}{时空复杂度}{29}
+\contentsline {section}{\numberline {30}CodeJam 2014 Finals C - Symmetric Trees}{29}
 \contentsline {paragraph}{题目大意}{29}
-\contentsline {paragraph}{算法讨论}{29}
+\contentsline {paragraph}{算法讨论}{30}
 \contentsline {paragraph}{时空复杂度}{30}
-\contentsline {section}{\numberline {30}CodeJam 2014 Finals D - Paradox Sort}{30}
-\contentsline {paragraph}{题目大意}{30}
-\contentsline {paragraph}{算法讨论}{31}
-\contentsline {paragraph}{时空复杂度}{31}
-\contentsline {section}{\numberline {31}CodeJam 2014 Finals E - Allergy Testing}{31}
+\contentsline {section}{\numberline {31}CodeJam 2014 Finals D - Paradox Sort}{31}
 \contentsline {paragraph}{题目大意}{31}
+\contentsline {paragraph}{算法讨论}{31}
+\contentsline {paragraph}{时空复杂度}{32}
+\contentsline {section}{\numberline {32}CodeJam 2014 Finals E - Allergy Testing}{32}
+\contentsline {paragraph}{题目大意}{32}
 \contentsline {paragraph}{算法讨论}{32}
 \contentsline {paragraph}{时空复杂度}{33}
-\contentsline {section}{\numberline {32}CodeJam 2014 Finals F - ARAM}{33}
-\contentsline {paragraph}{题目大意}{33}
-\contentsline {paragraph}{算法讨论}{33}
-\contentsline {paragraph}{时空复杂度}{34}
-\contentsline {section}{\numberline {33}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{34}
+\contentsline {section}{\numberline {33}CodeJam 2014 Finals F - ARAM}{34}
 \contentsline {paragraph}{题目大意}{34}
 \contentsline {paragraph}{算法讨论}{34}
 \contentsline {paragraph}{时空复杂度}{34}
-\contentsline {section}{\numberline {34}USACO 2012 Dec gold 2 - First!}{34}
-\contentsline {paragraph}{题目大意}{34}
-\contentsline {paragraph}{算法讨论}{34}
+\contentsline {section}{\numberline {34}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{35}
+\contentsline {paragraph}{题目大意}{35}
+\contentsline {paragraph}{算法讨论}{35}
+\contentsline {paragraph}{时空复杂度}{35}
+\contentsline {section}{\numberline {35}USACO 2012 Dec gold 2 - First!}{35}
+\contentsline {paragraph}{题目大意}{35}
+\contentsline {paragraph}{算法讨论}{35}
 \contentsline {paragraph}{时空复杂度}{35}
