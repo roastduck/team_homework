@@ -1,6 +1,7 @@
 #include<cmath>
 #include<cstdio>
 #include<cstring>
+#include<set>
 #include<algorithm>
 using namespace std;
 
@@ -10,6 +11,7 @@ const int maxn=1005;
 
 int C;
 ll N, X, ans, S[maxn], E[maxn], T[maxn], R[maxn];
+set< pair<ll,ll> > SS;
 
 inline void upd(double p, ll t, ll T, ll R, ll &up, ll &dn)
 {
@@ -23,6 +25,8 @@ inline void upd(double p, ll t, ll T, ll R, ll &up, ll &dn)
 
 void test(ll x, ll t)
 {
+	if (SS.count(make_pair(x,t))) return;
+	SS.insert(make_pair(x,t));
 	if (t<0 || t>X) return;
 	x=(x%N+N)%N;
 	ll up(X-t), dn(-t);
@@ -51,6 +55,7 @@ int main()
 	scanf("%d",&_T);
 	for (int _t=1;_t<=_T;_t++)
 	{
+		SS.clear();
 		scanf("%d%I64d%I64d",&C,&X,&N);
 		for (int i=1;i<=C;i++)
 		{
