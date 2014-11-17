@@ -7,6 +7,7 @@
 	\usepackage{enumitem}
 	\usepackage{graphicx}
 	\usepackage{amsmath}
+	\usepackage{amssymb}
 	\usepackage[amsmath,thref,thmmarks]{ntheorem}
 	\theoremstyle{nonumberplain}
 	\newtheorem{proof}{\hspace{1em}证明：}
@@ -324,6 +325,26 @@
 		\myparagraph{时空复杂度}
 		
 			扫描圆周，每次在树状数组上插入和询问，总时间复杂度$O(n\log_2n)$。总空间复杂度$O(n)$。
+	
+	\section{Codeforces 303D - Rotatable Number}
+	
+		\myparagraph{题目大意}
+		
+			如果一个长度为$n$的数乘1、乘2、……、乘$n$，可以得到所有由它旋转得来的数，则称此数为可旋转数，旋转指将此数的前若干位移至最后。如$142857 \times 2=285714$，285714相当于把14移至末尾。给定$n$，求最大的$1<b<x$，使$b$进制下存在长度为$n$的可旋转数。$1 \leq n \leq 5 \times 10^6, 2 \leq x \leq 10^9$。
+		
+		\myparagraph{算法讨论}
+		
+			每个长度为$n$的可旋转数对应一个分数$\frac{1}{n+1}$。记$p=n+1$，这个分数为$\frac{1}{p}$，这个分数对应循环节为$n$的循环小数，如$\frac{1}{7}=0.\dot{1}4285\dot{7}$。此例中，$\frac{2}{7}=0.285714, \frac{3}{7}=0.428571, \cdots$，分别相当于旋转。$0.\dot{1}4285\dot{7}=\frac{142857}{999999}$，反过来，就可以将这个可旋转数表示为
+			
+			$$\frac{b^{p-1}-1}{p}$$
+			
+			但直接这样构造不一定合法。首先这个数要是循环小数，这要求$p \nmid b$。其次，这个循环小数的每一位均不相同，这样$\frac{1}{p}, \frac{2}{p}, \cdots, \frac{n}{p}$就对应不同的循环小数。这个循环小数的每一位分别等于$b^0 \mod p, b^1 \mod p, \cdots, b^n \mod p$，显然每一个循环小数之间都会是循环同构的。为了使每一位不等，$p$应为质数且$b$应是模$p$意义下的原根。
+			
+			这样问题就转化为找出最大的一个$b$使$p \nmid b$且$b$是模$p$意义下的原根。可以从大到小枚举$b$，每次判断$b^{\frac{p-1}{2}}, b^{\frac{p-1}{3}}$等模$p$是否为1即可。
+		
+		\myparagraph{时空复杂度}
+		
+			因为是在模$p$同余系下枚举$b$，可能的值不超过$p$个，时间$O(n)$。每次要判断$\sqrt{p}$个数是否为1，还要用$O(\log_2n)$的时间执行快速幂。总时间$O(n^{1.5} \log_2n)$。空间$O(1)$。
 	
 	\section{Codeforces 303E - Random Ranking}
 	
