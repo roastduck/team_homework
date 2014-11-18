@@ -185,7 +185,11 @@
 \contentsline {paragraph}{题目大意}{45}
 \contentsline {paragraph}{算法讨论}{45}
 \contentsline {paragraph}{时空复杂度}{46}
-\contentsline {section}{\numberline {47}USACO 2012 Dec gold 2 - First!}{46}
+\contentsline {section}{\numberline {47}USACO US OPEN 07 gold 3 - Connect}{46}
 \contentsline {paragraph}{题目大意}{46}
 \contentsline {paragraph}{算法讨论}{46}
 \contentsline {paragraph}{时空复杂度}{46}
+\contentsline {section}{\numberline {48}USACO 2012 Dec gold 2 - First!}{46}
+\contentsline {paragraph}{题目大意}{46}
+\contentsline {paragraph}{算法讨论}{46}
+\contentsline {paragraph}{时空复杂度}{47}
