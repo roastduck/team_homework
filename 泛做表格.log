@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  18 NOV 2014 19:29
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  18 NOV 2014 19:58
 entering extended mode
 **E:/集训队作业/team_homework/泛做表格.tex
 (E:/集训队作业/team_homework/泛做表格.tex
@@ -1971,8 +1971,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1180--1181
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
+
+ []
+
 [47]
-Overfull \hbox (0.91167pt too wide) in paragraph at lines 1182--1183
+Underfull \hbox (badness 10000) in paragraph at lines 1190--1191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
+
+ []
+
+
+Overfull \hbox (0.91167pt too wide) in paragraph at lines 1196--1197
 []\C70/rm/m/n/10.54/5e �\OT1/cmr/m/n/10.54 TRIE\C70/rm/m/n/10.54/65 � \C70/rm/m
 /n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 l\OT
 1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/90 M \C70/rm/m/n/1
@@ -1993,10 +2008,10 @@ m/m/it/10.54 n\OMS/cmsy/m/n/10.54 j\OT1/cmr/m/n/10.54 \OMS/cmsy/m/n/10.54 j\OT
 \tf@thm=\write4
  (E:\集训队作业\team_homework\泛做表格.aux) ) 
 Here is how much of TeX's memory you used:
- 13746 strings out of 495354
- 217213 string characters out of 3183075
+ 13750 strings out of 495354
+ 217261 string characters out of 3183075
  238813 words of memory out of 3000000
- 16242 multiletter control sequences out of 15000+200000
+ 16246 multiletter control sequences out of 15000+200000
  60603 words of font info for 213 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  40i,13n,28p,1262b,1730s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2072,7 +2087,7 @@ m/cmsy10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5
 /Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Progra
 m Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><D:/Program Files
 /CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 泛做表格.pdf (48 pages, 1385053 bytes).
+Output written on 泛做表格.pdf (48 pages, 1386705 bytes).
 PDF statistics:
  939 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
