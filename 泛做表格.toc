@@ -18,206 +18,210 @@
 \contentsline {paragraph}{题目大意}{6}
 \contentsline {paragraph}{算法讨论}{7}
 \contentsline {paragraph}{时空复杂度}{7}
-\contentsline {section}{\numberline {6}Codeforces 249E - Endless Matrix}{8}
+\contentsline {section}{\numberline {6}Codeforces 249D - Donkey and Stars}{8}
+\contentsline {paragraph}{题目大意}{8}
+\contentsline {paragraph}{算法讨论}{8}
+\contentsline {paragraph}{时空复杂度}{8}
+\contentsline {section}{\numberline {7}Codeforces 249E - Endless Matrix}{8}
 \contentsline {paragraph}{题目大意}{8}
 \contentsline {paragraph}{算法讨论}{8}
 \contentsline {paragraph}{时空复杂度}{9}
-\contentsline {section}{\numberline {7}Codeforces 253E - Printer}{9}
-\contentsline {paragraph}{题目大意}{9}
-\contentsline {paragraph}{算法讨论}{9}
-\contentsline {paragraph}{时空复杂度}{9}
-\contentsline {section}{\numberline {8}Codeforces 254D - Rats}{9}
+\contentsline {section}{\numberline {8}Codeforces 253E - Printer}{9}
 \contentsline {paragraph}{题目大意}{9}
 \contentsline {paragraph}{算法讨论}{9}
 \contentsline {paragraph}{时空复杂度}{10}
-\contentsline {section}{\numberline {9}Codeforces 256D - Liars and Serge}{10}
+\contentsline {section}{\numberline {9}Codeforces 254D - Rats}{10}
 \contentsline {paragraph}{题目大意}{10}
 \contentsline {paragraph}{算法讨论}{10}
 \contentsline {paragraph}{时空复杂度}{10}
-\contentsline {section}{\numberline {10}Codeforces 264E - Roadside Trees}{10}
+\contentsline {section}{\numberline {10}Codeforces 256D - Liars and Serge}{10}
 \contentsline {paragraph}{题目大意}{10}
 \contentsline {paragraph}{算法讨论}{11}
 \contentsline {paragraph}{时空复杂度}{11}
-\contentsline {section}{\numberline {11}Codeforces 266E - More Queries to Array...}{11}
+\contentsline {section}{\numberline {11}Codeforces 264E - Roadside Trees}{11}
 \contentsline {paragraph}{题目大意}{11}
-\contentsline {paragraph}{算法讨论}{12}
+\contentsline {paragraph}{算法讨论}{11}
 \contentsline {paragraph}{时空复杂度}{12}
-\contentsline {section}{\numberline {12}Codeforces 269E - String Theory}{12}
+\contentsline {section}{\numberline {12}Codeforces 266E - More Queries to Array...}{12}
 \contentsline {paragraph}{题目大意}{12}
 \contentsline {paragraph}{算法讨论}{12}
-\contentsline {paragraph}{时空复杂度}{13}
-\contentsline {section}{\numberline {13}Codeforces 273D - Dima and Figure}{13}
-\contentsline {paragraph}{题目大意}{13}
+\contentsline {paragraph}{时空复杂度}{12}
+\contentsline {section}{\numberline {13}Codeforces 269E - String Theory}{12}
+\contentsline {paragraph}{题目大意}{12}
 \contentsline {paragraph}{算法讨论}{13}
-\contentsline {paragraph}{时空复杂度}{14}
-\contentsline {section}{\numberline {14}Codeforces 274E - Mirror Room}{14}
+\contentsline {paragraph}{时空复杂度}{13}
+\contentsline {section}{\numberline {14}Codeforces 273D - Dima and Figure}{14}
 \contentsline {paragraph}{题目大意}{14}
 \contentsline {paragraph}{算法讨论}{14}
 \contentsline {paragraph}{时空复杂度}{14}
-\contentsline {section}{\numberline {15}Codeforces 280E - Sequence Transformation}{15}
+\contentsline {section}{\numberline {15}Codeforces 274E - Mirror Room}{14}
+\contentsline {paragraph}{题目大意}{14}
+\contentsline {paragraph}{算法讨论}{14}
+\contentsline {paragraph}{时空复杂度}{15}
+\contentsline {section}{\numberline {16}Codeforces 280E - Sequence Transformation}{15}
 \contentsline {paragraph}{题目大意}{15}
 \contentsline {paragraph}{算法讨论}{15}
-\contentsline {paragraph}{时空复杂度}{15}
-\contentsline {section}{\numberline {16}Codeforces 286D - Tourist}{16}
+\contentsline {paragraph}{时空复杂度}{16}
+\contentsline {section}{\numberline {17}Codeforces 286D - Tourist}{16}
 \contentsline {paragraph}{题目大意}{16}
 \contentsline {paragraph}{算法讨论}{16}
-\contentsline {paragraph}{时空复杂度}{16}
-\contentsline {section}{\numberline {17}Codeforces 286E - Ladies' Shop}{16}
-\contentsline {paragraph}{题目大意}{16}
-\contentsline {paragraph}{算法讨论}{17}
 \contentsline {paragraph}{时空复杂度}{17}
-\contentsline {section}{\numberline {18}Codeforces 297E - Mystic Carvings}{17}
+\contentsline {section}{\numberline {18}Codeforces 286E - Ladies' Shop}{17}
 \contentsline {paragraph}{题目大意}{17}
 \contentsline {paragraph}{算法讨论}{17}
-\contentsline {paragraph}{时空复杂度}{18}
-\contentsline {section}{\numberline {19}Codeforces 303D - Rotatable Number}{18}
+\contentsline {paragraph}{时空复杂度}{17}
+\contentsline {section}{\numberline {19}Codeforces 297E - Mystic Carvings}{18}
 \contentsline {paragraph}{题目大意}{18}
 \contentsline {paragraph}{算法讨论}{18}
 \contentsline {paragraph}{时空复杂度}{19}
-\contentsline {section}{\numberline {20}Codeforces 303E - Random Ranking}{19}
+\contentsline {section}{\numberline {20}Codeforces 303D - Rotatable Number}{19}
 \contentsline {paragraph}{题目大意}{19}
 \contentsline {paragraph}{算法讨论}{19}
 \contentsline {paragraph}{时空复杂度}{19}
-\contentsline {section}{\numberline {21}Codeforces 306D - Polygon}{20}
+\contentsline {section}{\numberline {21}Codeforces 303E - Random Ranking}{19}
+\contentsline {paragraph}{题目大意}{19}
+\contentsline {paragraph}{算法讨论}{20}
+\contentsline {paragraph}{时空复杂度}{20}
+\contentsline {section}{\numberline {22}Codeforces 306D - Polygon}{20}
 \contentsline {paragraph}{题目大意}{20}
 \contentsline {paragraph}{算法讨论}{20}
-\contentsline {paragraph}{时空复杂度}{21}
-\contentsline {section}{\numberline {22}Codeforces 309D - Tennis Rackets}{21}
-\contentsline {paragraph}{题目大意}{21}
-\contentsline {paragraph}{算法讨论}{21}
 \contentsline {paragraph}{时空复杂度}{22}
-\contentsline {section}{\numberline {23}Codeforces 311E - Biologist}{22}
+\contentsline {section}{\numberline {23}Codeforces 309D - Tennis Rackets}{22}
 \contentsline {paragraph}{题目大意}{22}
 \contentsline {paragraph}{算法讨论}{22}
 \contentsline {paragraph}{时空复杂度}{23}
-\contentsline {section}{\numberline {24}Codeforces 316D3 - PE Lesson}{23}
+\contentsline {section}{\numberline {24}Codeforces 311E - Biologist}{23}
 \contentsline {paragraph}{题目大意}{23}
 \contentsline {paragraph}{算法讨论}{23}
 \contentsline {paragraph}{时空复杂度}{23}
-\contentsline {section}{\numberline {25}Codeforces 316G3 - Good Substrings}{24}
-\contentsline {paragraph}{题目大意}{24}
+\contentsline {section}{\numberline {25}Codeforces 316D3 - PE Lesson}{23}
+\contentsline {paragraph}{题目大意}{23}
 \contentsline {paragraph}{算法讨论}{24}
 \contentsline {paragraph}{时空复杂度}{24}
-\contentsline {section}{\numberline {26}Codeforces 317E - Princess and Her Shadow}{24}
+\contentsline {section}{\numberline {26}Codeforces 316G3 - Good Substrings}{24}
 \contentsline {paragraph}{题目大意}{24}
 \contentsline {paragraph}{算法讨论}{24}
 \contentsline {paragraph}{时空复杂度}{25}
-\contentsline {section}{\numberline {27}Codeforces 325D - Reclamation}{25}
+\contentsline {section}{\numberline {27}Codeforces 317E - Princess and Her Shadow}{25}
 \contentsline {paragraph}{题目大意}{25}
 \contentsline {paragraph}{算法讨论}{25}
-\contentsline {paragraph}{时空复杂度}{26}
-\contentsline {section}{\numberline {28}Codeforces 325E - The Red Button}{26}
+\contentsline {paragraph}{时空复杂度}{25}
+\contentsline {section}{\numberline {28}Codeforces 325D - Reclamation}{26}
 \contentsline {paragraph}{题目大意}{26}
 \contentsline {paragraph}{算法讨论}{26}
 \contentsline {paragraph}{时空复杂度}{26}
-\contentsline {section}{\numberline {29}Codeforces 331E2 - Deja Vu}{27}
+\contentsline {section}{\numberline {29}Codeforces 325E - The Red Button}{26}
+\contentsline {paragraph}{题目大意}{26}
+\contentsline {paragraph}{算法讨论}{26}
+\contentsline {paragraph}{时空复杂度}{27}
+\contentsline {section}{\numberline {30}Codeforces 331E2 - Deja Vu}{27}
 \contentsline {paragraph}{题目大意}{27}
 \contentsline {paragraph}{算法讨论}{27}
 \contentsline {paragraph}{时空复杂度}{28}
-\contentsline {section}{\numberline {30}Codeforces 335E - Counting Skyscrapers}{28}
+\contentsline {section}{\numberline {31}Codeforces 335E - Counting Skyscrapers}{28}
 \contentsline {paragraph}{题目大意}{28}
 \contentsline {paragraph}{算法讨论}{28}
 \contentsline {paragraph}{时空复杂度}{29}
-\contentsline {section}{\numberline {31}Codeforces 335F - Buy one, get one free}{29}
-\contentsline {paragraph}{题目大意}{29}
-\contentsline {paragraph}{算法讨论}{29}
-\contentsline {paragraph}{时空复杂度}{30}
-\contentsline {section}{\numberline {32}Codeforces 338E - Optimize!}{31}
+\contentsline {section}{\numberline {32}Codeforces 335F - Buy one, get one free}{30}
+\contentsline {paragraph}{题目大意}{30}
+\contentsline {paragraph}{算法讨论}{30}
+\contentsline {paragraph}{时空复杂度}{31}
+\contentsline {section}{\numberline {33}Codeforces 338E - Optimize!}{31}
 \contentsline {paragraph}{题目大意}{31}
 \contentsline {paragraph}{算法讨论}{31}
 \contentsline {paragraph}{时空复杂度}{31}
-\contentsline {section}{\numberline {33}Codeforces 341E - Candies Game}{31}
-\contentsline {paragraph}{题目大意}{31}
-\contentsline {paragraph}{算法讨论}{31}
-\contentsline {paragraph}{时空复杂度}{32}
-\contentsline {section}{\numberline {34}Codeforces 342D - Xenia and Dominoes}{32}
+\contentsline {section}{\numberline {34}Codeforces 341E - Candies Game}{32}
 \contentsline {paragraph}{题目大意}{32}
 \contentsline {paragraph}{算法讨论}{32}
 \contentsline {paragraph}{时空复杂度}{32}
-\contentsline {section}{\numberline {35}Codeforces 346E - Doodle Jump}{32}
+\contentsline {section}{\numberline {35}Codeforces 342D - Xenia and Dominoes}{32}
 \contentsline {paragraph}{题目大意}{32}
-\contentsline {paragraph}{算法讨论}{33}
+\contentsline {paragraph}{算法讨论}{32}
 \contentsline {paragraph}{时空复杂度}{33}
-\contentsline {section}{\numberline {36}Codeforces 354D - Transferring Pyramid}{34}
+\contentsline {section}{\numberline {36}Codeforces 346E - Doodle Jump}{33}
+\contentsline {paragraph}{题目大意}{33}
+\contentsline {paragraph}{算法讨论}{33}
+\contentsline {paragraph}{时空复杂度}{34}
+\contentsline {section}{\numberline {37}Codeforces 354D - Transferring Pyramid}{34}
 \contentsline {paragraph}{题目大意}{34}
-\contentsline {paragraph}{算法讨论}{34}
-\contentsline {paragraph}{时空复杂度}{35}
-\contentsline {section}{\numberline {37}CodeJam 2009 Finals D - Wi-fi Towers}{35}
-\contentsline {paragraph}{题目大意}{35}
+\contentsline {paragraph}{算法讨论}{35}
+\contentsline {paragraph}{时空复杂度}{36}
+\contentsline {section}{\numberline {38}CodeJam 2009 Finals D - Wi-fi Towers}{36}
+\contentsline {paragraph}{题目大意}{36}
 \contentsline {paragraph}{算法讨论}{36}
 \contentsline {paragraph}{时空复杂度}{36}
-\contentsline {section}{\numberline {38}CodeJam 2009 Finals F - Lights}{36}
+\contentsline {section}{\numberline {39}CodeJam 2009 Finals F - Lights}{36}
 \contentsline {paragraph}{题目大意}{36}
 \contentsline {paragraph}{算法讨论}{36}
 \contentsline {subparagraph}{(1)}{36}
 \contentsline {subparagraph}{(2)}{37}
 \contentsline {subparagraph}{(3)}{37}
 \contentsline {paragraph}{时空复杂度}{37}
-\contentsline {section}{\numberline {39}CodeJam 2010 Finals A - Letter Stamper}{37}
-\contentsline {paragraph}{题目大意}{37}
-\contentsline {paragraph}{算法讨论}{37}
-\contentsline {paragraph}{时空复杂度}{38}
-\contentsline {section}{\numberline {40}CodeJam 2011 Finals A - Runs}{38}
+\contentsline {section}{\numberline {40}CodeJam 2010 Finals A - Letter Stamper}{38}
 \contentsline {paragraph}{题目大意}{38}
 \contentsline {paragraph}{算法讨论}{38}
 \contentsline {paragraph}{时空复杂度}{38}
-\contentsline {section}{\numberline {41}CodeJam 2011 Finals B - Rains Over Atlantis}{39}
+\contentsline {section}{\numberline {41}CodeJam 2011 Finals A - Runs}{38}
+\contentsline {paragraph}{题目大意}{38}
+\contentsline {paragraph}{算法讨论}{38}
+\contentsline {paragraph}{时空复杂度}{39}
+\contentsline {section}{\numberline {42}CodeJam 2011 Finals B - Rains Over Atlantis}{39}
 \contentsline {paragraph}{题目大意}{39}
 \contentsline {paragraph}{算法讨论}{40}
 \contentsline {paragraph}{时空复杂度}{41}
-\contentsline {section}{\numberline {42}CodeJam 2011 Finals C - Program within a Program}{41}
+\contentsline {section}{\numberline {43}CodeJam 2011 Finals C - Program within a Program}{41}
 \contentsline {paragraph}{题目大意}{41}
-\contentsline {paragraph}{算法讨论}{41}
-\contentsline {paragraph}{图灵机规模}{42}
-\contentsline {section}{\numberline {43}CodeJam 2012 Finals D - Twirling Towards Freedom}{42}
-\contentsline {paragraph}{题目大意}{42}
 \contentsline {paragraph}{算法讨论}{42}
-\contentsline {paragraph}{时空复杂度}{43}
-\contentsline {section}{\numberline {44}CodeJam 2013 Finals A - Graduation Requirements}{43}
-\contentsline {paragraph}{题目大意}{43}
+\contentsline {paragraph}{图灵机规模}{42}
+\contentsline {section}{\numberline {44}CodeJam 2012 Finals D - Twirling Towards Freedom}{42}
+\contentsline {paragraph}{题目大意}{42}
 \contentsline {paragraph}{算法讨论}{43}
 \contentsline {paragraph}{时空复杂度}{43}
-\contentsline {section}{\numberline {45}CodeJam 2013 Finals C - X Marks the Spot}{44}
+\contentsline {section}{\numberline {45}CodeJam 2013 Finals A - Graduation Requirements}{43}
+\contentsline {paragraph}{题目大意}{43}
+\contentsline {paragraph}{算法讨论}{43}
+\contentsline {paragraph}{时空复杂度}{44}
+\contentsline {section}{\numberline {46}CodeJam 2013 Finals C - X Marks the Spot}{44}
 \contentsline {paragraph}{题目大意}{44}
-\contentsline {paragraph}{算法讨论}{44}
-\contentsline {paragraph}{时空复杂度}{45}
-\contentsline {section}{\numberline {46}CodeJam 2014 Finals C - Symmetric Trees}{45}
-\contentsline {paragraph}{题目大意}{45}
-\contentsline {paragraph}{算法讨论}{46}
+\contentsline {paragraph}{算法讨论}{45}
 \contentsline {paragraph}{时空复杂度}{46}
-\contentsline {section}{\numberline {47}CodeJam 2014 Finals D - Paradox Sort}{47}
-\contentsline {paragraph}{题目大意}{47}
-\contentsline {paragraph}{算法讨论}{47}
-\contentsline {paragraph}{时空复杂度}{48}
-\contentsline {section}{\numberline {48}CodeJam 2014 Finals E - Allergy Testing}{48}
+\contentsline {section}{\numberline {47}CodeJam 2014 Finals C - Symmetric Trees}{46}
+\contentsline {paragraph}{题目大意}{46}
+\contentsline {paragraph}{算法讨论}{46}
+\contentsline {paragraph}{时空复杂度}{47}
+\contentsline {section}{\numberline {48}CodeJam 2014 Finals D - Paradox Sort}{48}
 \contentsline {paragraph}{题目大意}{48}
 \contentsline {paragraph}{算法讨论}{48}
-\contentsline {paragraph}{时空复杂度}{49}
-\contentsline {section}{\numberline {49}CodeJam 2014 Finals F - ARAM}{50}
+\contentsline {paragraph}{时空复杂度}{48}
+\contentsline {section}{\numberline {49}CodeJam 2014 Finals E - Allergy Testing}{49}
+\contentsline {paragraph}{题目大意}{49}
+\contentsline {paragraph}{算法讨论}{49}
+\contentsline {paragraph}{时空复杂度}{50}
+\contentsline {section}{\numberline {50}CodeJam 2014 Finals F - ARAM}{50}
 \contentsline {paragraph}{题目大意}{50}
 \contentsline {paragraph}{算法讨论}{50}
-\contentsline {paragraph}{时空复杂度}{50}
-\contentsline {section}{\numberline {50}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{51}
+\contentsline {paragraph}{时空复杂度}{51}
+\contentsline {section}{\numberline {51}USACO 2007 Dec gold 3 - Best Cow Line, Gold}{51}
 \contentsline {paragraph}{题目大意}{51}
 \contentsline {paragraph}{算法讨论}{51}
 \contentsline {paragraph}{时空复杂度}{51}
-\contentsline {section}{\numberline {51}USACO US OPEN 07 gold 3 - Connect}{51}
-\contentsline {paragraph}{题目大意}{51}
-\contentsline {paragraph}{算法讨论}{51}
-\contentsline {paragraph}{时空复杂度}{51}
-\contentsline {section}{\numberline {52}USACO 2012 Mar gold 3 - Cows in a Skyscrape}{51}
+\contentsline {section}{\numberline {52}USACO US OPEN 07 gold 3 - Connect}{51}
 \contentsline {paragraph}{题目大意}{51}
 \contentsline {paragraph}{算法讨论}{52}
 \contentsline {paragraph}{时空复杂度}{52}
-\contentsline {section}{\numberline {53}USACO 2012 Dec gold 2 - First!}{52}
+\contentsline {section}{\numberline {53}USACO 2012 Mar gold 3 - Cows in a Skyscrape}{52}
 \contentsline {paragraph}{题目大意}{52}
 \contentsline {paragraph}{算法讨论}{52}
 \contentsline {paragraph}{时空复杂度}{52}
-\contentsline {section}{\numberline {54}USACO 2013 US Open gold - Photo}{53}
+\contentsline {section}{\numberline {54}USACO 2012 Dec gold 2 - First!}{52}
+\contentsline {paragraph}{题目大意}{52}
+\contentsline {paragraph}{算法讨论}{52}
+\contentsline {paragraph}{时空复杂度}{53}
+\contentsline {section}{\numberline {55}USACO 2013 US Open gold - Photo}{53}
 \contentsline {paragraph}{题目大意}{53}
 \contentsline {paragraph}{算法讨论}{53}
 \contentsline {paragraph}{时空复杂度}{53}
-\contentsline {section}{\numberline {55}USACO 2013 US Open gold - Figure Eight}{53}
+\contentsline {section}{\numberline {56}USACO 2013 US Open gold - Figure Eight}{53}
 \contentsline {paragraph}{题目大意}{53}
-\contentsline {paragraph}{算法讨论}{53}
+\contentsline {paragraph}{算法讨论}{54}
 \contentsline {paragraph}{时空复杂度}{54}
