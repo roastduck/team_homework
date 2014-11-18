@@ -205,3 +205,7 @@
 \contentsline {paragraph}{题目大意}{48}
 \contentsline {paragraph}{算法讨论}{48}
 \contentsline {paragraph}{时空复杂度}{49}
+\contentsline {section}{\numberline {52}USACO 2013 US Open gold - Figure Eight}{49}
+\contentsline {paragraph}{题目大意}{49}
+\contentsline {paragraph}{算法讨论}{49}
+\contentsline {paragraph}{时空复杂度}{49}

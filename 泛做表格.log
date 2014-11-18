@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  18 NOV 2014 20:28
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  18 NOV 2014 21:14
 entering extended mode
 **E:/集训队作业/team_homework/泛做表格.tex
 (E:/集训队作业/team_homework/泛做表格.tex
@@ -2019,14 +2019,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 1210--1211
 
  []
 
-[48] [49]
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 1216--1217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1229--1230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1235--1236
+
+ []
+
+
+Overfull \hbox (11.78581pt too wide) in paragraph at lines 1237--1238
+[]\C70/rm/m/n/10.54/4e   \C70/rm/m/n/10.54/5f   \C70/rm/m/n/10.54/59 � \C70/rm/
+m/n/10.54/76 �\OT1/cmr/m/n/10.54 DP\C70/rm/m/n/10.54/72 � \C70/rm/m/n/10.54/60 
+$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 N[]\OT1/cmr/m/n/
+10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/8f l \C70/rm/m/n/10.54/79 �$
+\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (1)$|\C70/rm/m/n/10.54/30 | \C70/rm/m/
+n/10.54/67   \C70/rm/m/n/10.54/54  \C70/rm/m/n/10.54/51 � \C70/rm/m/n/10.54/89
+ � \C70/rm/m/n/10.54/4e _ \C70/rm/m/n/10.54/66 /$\OML/cmm/m/it/10.54 O\OT1/cmr/
+m/n/10.54 (\OML/cmm/m/it/10.54 N[]\OT1/cmr/m/n/10.54 )$\C70/rm/m/n/10.54/76 �|\
+C70/rm/m/n/10.54/30 | \C70/rm/m/n/10.54/60 ; \C70/rm/m/n/10.54/65 � \C70/rm/m/
+n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 N[]\O
+T1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/60 ; \C70/rm/m/n/
+10.54/7a z \C70/rm/m/n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML
+/cmm/m/it/10.54 N[]\OT1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/30 |
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1237--1238
+
+ []
+
+[49]
 \tf@thm=\write4
  (E:\集训队作业\team_homework\泛做表格.aux) ) 
 Here is how much of TeX's memory you used:
- 13761 strings out of 495354
- 217428 string characters out of 3183075
+ 13764 strings out of 495354
+ 217488 string characters out of 3183075
  238813 words of memory out of 3000000
- 16254 multiletter control sequences out of 15000+200000
+ 16257 multiletter control sequences out of 15000+200000
  60603 words of font info for 213 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  40i,13n,28p,1262b,1730s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2102,7 +2139,7 @@ m/cmsy10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5
 /Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Progra
 m Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><D:/Program Files
 /CTEX/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 泛做表格.pdf (49 pages, 1390448 bytes).
+Output written on 泛做表格.pdf (49 pages, 1393280 bytes).
 PDF statistics:
  943 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
