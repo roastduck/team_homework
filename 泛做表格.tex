@@ -654,6 +654,34 @@
 		
 			最多有$O(n^2)$条边要扩展，单次扩展操作时间$O(n^2)$，扩展共耗时$O(n^4)$，由此也可知元路径和单位路径的总数都是$O(n^2)$的。从元路径获得f需$O(n^4)$，从f获得t需$O(n^4)$，从t获得g需$O(n^4)$，总时间复杂度$O(n^4)$。空间复杂度为DP数组空间复杂度，为$O(n^3)$。
 	
+	\section{Codeforces 332E - Binary Key}
+	
+		\myparagraph{题目大意}
+		
+			有一个字符串$p$，一个0/1串$q$，可以通过如下过程生成串$s$。
+			
+			\begin{verbatim}
+i = 0;
+j = 0;
+s = <>;
+while i is less than the length of the string p
+{
+　　if q[j] == 1, then add to the right of string s character p[i];
+　　increase variables i, j by one;
+　　if the value of the variable j equals the length of the string q, then j = 0;
+}
+			\end{verbatim}
+			
+			给定$p$、$s$，再给定$q$的长度$k$，问能生成出$s$的最小字典序的$q$是什么。$k \leq 2000, |p| \leq 10^6, |s| \leq 200$。
+		
+		\myparagraph{算法讨论}
+		
+			首先枚举$q$中有多少个1，记这个数为$x$，显然$x \leq \min(k,|s|)$。为了使$q$的字典序最小，可以从后往前逐位确定$q$，即对于当前位，如果是1合法就是1，否则是0。至于如何验证是否合法，只需确定并逐个检验此位控制着$p$和$s$中的哪些字符，即，设$i$表示此为$q$的正数第几个1，$j$表示此位置为$q$的第$j$位，显然对于所有合法的整数$r$，如果$p[rk+j]=s[rx+i]$都成立才合法，这可以暴力验证。
+		
+		\myparagraph{时空复杂度}
+	
+			枚举$x$耗时$O(|s|)$，逐位扫描$q$耗时$O(k)$，确定是否合法耗时$O(|p|/k)$，总时间$O(|s||p|)$。因为程序执行过程中有很多情况会导致循环退出（不合法），所以这是一个很松的上界。总空间$O(|p|)$。（复杂度中视$|p|>k>|s|$）
+			
 	\section{Codeforces 335E - Counting Skyscrapers}
 	
 		\myparagraph{题目大意}
