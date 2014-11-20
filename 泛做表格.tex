@@ -1333,6 +1333,53 @@ while i is less than the length of the string p
 		
 			二分与精度有关，简记为$O(log)$。每次二分要做状态$O(RG)$，每次转移$O(N)$的DP。考虑$T$组数据，总时间复杂度$O(T \cdot log \cdot RG)$。总空间复杂度$O(RG+N)$。
 	
+	\section{USACO 2007 Jan gold - Cow Schul}
+	
+		\myparagraph{题目大意}
+		
+			给$n$个二元组$(P_i,T_i)$，要求计算出所有的$d$，满足存在方案从这$n$个二元组中去掉某$d$个，剩余的$\frac{\sum T_i}{\sum P_i}$，比去掉$\frac{T_i}{P_i}$最小的$d$个算出的$\frac{\sum T_i}{\sum P_i}$大。$n \leq 50000$。
+		
+		\myparagraph{算法讨论}
+		
+			对于某$d$，记$k=\mbox{按后一种方法去除后剩余的}\frac{\sum T_i}{\sum P_i}$，$k'=\mbox{去除任意d个后剩余的}\frac{\sum T_i}{\sum P_i}$。若$k'>k$，有
+			
+			$$\begin{aligned}
+				\frac{\sum_{\mbox{去除任意d个后剩余的}i} T_i}{\sum_{\mbox{去除任意d个后剩余的}i} P_i}&>&k\\
+				\sum_{\mbox{去除任意d个后剩余的}i}T_i-k P_i&>&0
+			\end{aligned}$$
+			
+			显然，这任意$d$个应为$T_i-k P_i$最小的$d$个。也就是说，如果找到一个$\frac{T_i}{P_i}$不为前$d$小的$i$，一个$\frac{T_j}{P_j}$为前$d$小的$j$，满足$T_i-k P_i>T_j-k P_j$，那么此$d$就满足要求。
+			
+			一个直接的想法是，先对这些二元组按$\frac{T_i}{P_i}$排序，枚举$d$，分别为$\frac{T_i}{P_i}$不为前$d$小的，和$\frac{T_i}{P_i}$为前$d$小的二元组维护一共两个凸壳，每次在凸壳上查询$T_i-k P_i$最小/最大值进行比较即可。但是由于$T_i$和$P_i$都不单调，直接维护凸壳需要使用平衡树，还不能有std::set，非常麻烦。
+			
+			我们应注意到，枚举$d$时，$k$具有单调性，每次插入的二元组的$\frac{T_i}{P_i}$也具有单调性。下面分别讨论这两个凸壳具体应怎样维护。
+			
+			一是$\frac{T_i}{P_i}$不为前$d$小的。从大到小枚举$d$，$k$也单调递减。用一个单调队列维护凸壳。
+			
+			\begin{enumerate}
+				\item 因为$d$递减，所以每次插入的新二元组的$\frac{T_i}{P_i}$递减，之前插入的凸壳中的点如果$P_i$小于当前点就没用了。每次插入时，如果队尾元素的$P_i$小于当前的，就退队，这样保证了队中元素$P_i$递减。
+				\item 如果队尾元素、队尾之前的元素与新插入元素不满足凸性，就退队尾，这样保证维护的是凸壳。
+				\item 每次的询问$k$也是递减的。我们每次询问的是队首，如果队首之后的元素更优，就退队首。
+			\end{enumerate}
+			
+			每次插入后队首元素就是$T_i-k P_i$最小的。
+			
+			二是$\frac{T_i}{P_i}$为前$d$小的。从小到大枚举$d$，$k$就单调递增。用一个单调栈维护凸壳。
+			
+			\begin{enumerate}
+				\item 因为$d$递增，与上面相反，如果栈顶元素$P_i$大于当前的，就弹栈，这样保证了栈中元素$P_i$是递增的。
+				\item 如果栈顶元素，栈顶以下的元素与新插入的元素不满足凸性，就弹栈，这样保证维护的是凸壳。
+				\item 每次询问的$k$也是递增的。我们每次询问栈顶，如果栈顶以下的元素更优，就弹栈。
+			\end{enumerate}
+			
+			每次插入后栈顶元素$T_i-k P_i$最大的。
+			
+			这样就可以便利地维护凸壳了。此题得解。
+		
+		\myparagraph{时空复杂度}
+		
+			维护凸壳的时间都是$O(n)$的，但算法最开始需要排序，总时间还是$O(n\log_2n)$。总空间$O(n)$。
+	
 	\section{USACO 2007 Dec gold 3 - Best Cow Line, Gold}
 	
 		\myparagraph{题目大意}
