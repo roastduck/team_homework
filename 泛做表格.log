@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  21 NOV 2014 08:48
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  21 NOV 2014 11:53
 entering extended mode
 **E:/集训队作业/team_homework/泛做表格.tex
 (E:/集训队作业/team_homework/泛做表格.tex
@@ -1264,58 +1264,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
-<fig274e_1.png, id=230, 850.23529pt x 210.43324pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+<fig274e_1.png, id=233, 850.23529pt x 210.43324pt>
 File: fig274e_1.png Graphic file (type png)
  <use fig274e_1.png>
-Package pdftex.def Info: fig274e_1.png used on input line 323.
+Package pdftex.def Info: fig274e_1.png used on input line 343.
 (pdftex.def)             Requested size: 433.62001pt x 107.32272pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--334
-
- []
-
-[15 <E:/集训队作业/team_homework/fig274e_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+
+ []
+
+[16 <E:/集训队作业/team_homework/fig274e_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--363
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
-
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 380--381
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 386--387
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
+Underfull \hbox (badness 10000) in paragraph at lines 392--393
 
  []
 
@@ -1330,36 +1330,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 406--407
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--411
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 
  []
 
-<fig297e_1.png, id=243, 624.3325pt x 428.60126pt>
-File: fig297e_1.png Graphic file (type png)
- <use fig297e_1.png>
-Package pdftex.def Info: fig297e_1.png used on input line 416.
-(pdftex.def)             Requested size: 346.89732pt x 238.14464pt.
- [18]
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 426--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 430--431
 
  []
 
+<fig297e_1.png, id=246, 624.3325pt x 428.60126pt>
+File: fig297e_1.png Graphic file (type png)
+ <use fig297e_1.png>
+Package pdftex.def Info: fig297e_1.png used on input line 436.
+(pdftex.def)             Requested size: 346.89732pt x 238.14464pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
-
- []
-
-[19 <E:/集训队作业/team_homework/fig297e_1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 446--447
 
  []
 
-
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 452--453
 
  []
@@ -1369,13 +1369,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 456--457
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
-
- []
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
+[20 <E:/集训队作业/team_homework/fig297e_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
 
  []
 
@@ -1384,48 +1379,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
 
-<fig306d_1.png, id=260, 476.53032pt x 330.48468pt>
-File: fig306d_1.png Graphic file (type png)
- <use fig306d_1.png>
-Package pdftex.def Info: fig306d_1.png used on input line 478.
-(pdftex.def)             Requested size: 260.17465pt x 180.44592pt.
 
-<fig306d_2.png, id=261, 744.7825pt x 484.81125pt>
-File: fig306d_2.png Graphic file (type png)
- <use fig306d_2.png>
-Package pdftex.def Info: fig306d_2.png used on input line 486.
-(pdftex.def)             Requested size: 260.17465pt x 169.36098pt.
- [21 <E:/集训队作业/team_homework/fig306d_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 482--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+
+ []
+
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 492--493
 
  []
 
+<fig306d_1.png, id=263, 476.53032pt x 330.48468pt>
+File: fig306d_1.png Graphic file (type png)
+ <use fig306d_1.png>
+Package pdftex.def Info: fig306d_1.png used on input line 498.
+(pdftex.def)             Requested size: 260.17465pt x 180.44592pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
+<fig306d_2.png, id=264, 744.7825pt x 484.81125pt>
+File: fig306d_2.png Graphic file (type png)
+ <use fig306d_2.png>
+Package pdftex.def Info: fig306d_2.png used on input line 506.
+(pdftex.def)             Requested size: 260.17465pt x 169.36098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
+
+ []
+
+[22 <E:/集训队作业/team_homework/fig306d_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 518--519
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--503
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
 
  []
 
-[22 <E:/集训队作业/team_homework/fig306d_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 519--520
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 525--526
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 529--530
-
- []
-
-[23]
+[23 <E:/集训队作业/team_homework/fig306d_2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 539--540
 
  []
@@ -1441,22 +1441,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 549--550
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 561--562
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 567--568
+Underfull \hbox (badness 10000) in paragraph at lines 559--560
 
  []
 
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 571--572
+Underfull \hbox (badness 10000) in paragraph at lines 565--566
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 575--576
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
 
  []
 
@@ -1466,62 +1461,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 581--582
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 585--586
+Underfull \hbox (badness 10000) in paragraph at lines 587--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--592
 
  []
 
 [25]
-Underfull \hbox (badness 10000) in paragraph at lines 593--594
+Underfull \hbox (badness 10000) in paragraph at lines 595--596
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 599--600
+Underfull \hbox (badness 10000) in paragraph at lines 601--602
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 603--604
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 607--608
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 613--614
+Underfull \hbox (badness 10000) in paragraph at lines 605--606
 
  []
 
 [26]
-Underfull \hbox (badness 10000) in paragraph at lines 617--618
+Underfull \hbox (badness 10000) in paragraph at lines 613--614
 
  []
 
-Package CJKpunct Info: punctuation spaces for family 'zhhei' do not exist. Use 
-family 'def' instead. on input line 621.
 
-Underfull \hbox (badness 10000) in paragraph at lines 621--622
+Underfull \hbox (badness 10000) in paragraph at lines 619--620
 
  []
 
-Package CJKpunct Info: punctuation spaces for family 'zhkai' do not exist. Use 
-family 'def' instead. on input line 623.
 
-Overfull \hbox (21.03372pt too wide) in paragraph at lines 623--624
-\C70/rm/m/it/10.54/8d p \C70/rm/m/it/10.54/52 0\OT1/cmr/m/it/10.54 (x',y'+c)|\C
-70/rm/m/it/10.54/ff | \C70/rm/m/it/10.54/80  \C70/rm/m/it/10.54/63  \C70/rm/
-m/it/10.54/53 �\OT1/cmr/m/it/10.54 (x,y)\C70/rm/m/it/10.54/52 M \C70/rm/m/it/10
-.54/5e v \C70/rm/m/it/10.54/4e  \C70/rm/m/it/10.54/5b X \C70/rm/m/it/10.54/57 
-( \C70/rm/m/it/10.54/8f � \C70/rm/m/it/10.54/68 7 \C70/rm/m/it/10.54/76 � \C70/
-rm/m/it/10.54/8d � \C70/rm/m/it/10.54/5f �|\C70/rm/m/it/10.54/ff | \C70/rm/m/i
-t/10.54/82 � \C70/rm/m/it/10.54/63  \C70/rm/m/it/10.54/53 �\OT1/cmr/m/it/10.54
- (x,y)\C70/rm/m/it/10.54/5c 1 \C70/rm/m/it/10.54/80 � \C70/rm/m/it/10.54/5b X \
-C70/rm/m/it/10.54/57 (|\C70/rm/m/it/10.54/ff | \C70/rm/m/it/10.54/5f � \C70/rm
-/m/it/10.54/71 6 \C70/rm/m/it/10.54/67 	\OT1/cmr/m/it/10.54 (x,y)\C70/rm/m/it/1
-0.54/4e \OT1/cmr/m/it/10.54 (x,y+c)\C70/rm/m/it/10.54/8f �
+Underfull \hbox (badness 10000) in paragraph at lines 623--624
+
  []
 
 
@@ -1540,94 +1516,134 @@ Underfull \hbox (badness 10000) in paragraph at lines 637--638
  []
 
 [27]
+Package CJKpunct Info: punctuation spaces for family 'zhhei' do not exist. Use 
+family 'def' instead. on input line 641.
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--642
+
+ []
+
+Package CJKpunct Info: punctuation spaces for family 'zhkai' do not exist. Use 
+family 'def' instead. on input line 643.
+
+Overfull \hbox (21.03372pt too wide) in paragraph at lines 643--644
+\C70/rm/m/it/10.54/8d p \C70/rm/m/it/10.54/52 0\OT1/cmr/m/it/10.54 (x',y'+c)|\C
+70/rm/m/it/10.54/ff | \C70/rm/m/it/10.54/80  \C70/rm/m/it/10.54/63  \C70/rm/
+m/it/10.54/53 �\OT1/cmr/m/it/10.54 (x,y)\C70/rm/m/it/10.54/52 M \C70/rm/m/it/10
+.54/5e v \C70/rm/m/it/10.54/4e  \C70/rm/m/it/10.54/5b X \C70/rm/m/it/10.54/57 
+( \C70/rm/m/it/10.54/8f � \C70/rm/m/it/10.54/68 7 \C70/rm/m/it/10.54/76 � \C70/
+rm/m/it/10.54/8d � \C70/rm/m/it/10.54/5f �|\C70/rm/m/it/10.54/ff | \C70/rm/m/i
+t/10.54/82 � \C70/rm/m/it/10.54/63  \C70/rm/m/it/10.54/53 �\OT1/cmr/m/it/10.54
+ (x,y)\C70/rm/m/it/10.54/5c 1 \C70/rm/m/it/10.54/80 � \C70/rm/m/it/10.54/5b X \
+C70/rm/m/it/10.54/57 (|\C70/rm/m/it/10.54/ff | \C70/rm/m/it/10.54/5f � \C70/rm
+/m/it/10.54/71 6 \C70/rm/m/it/10.54/67 	\OT1/cmr/m/it/10.54 (x,y)\C70/rm/m/it/1
+0.54/4e \OT1/cmr/m/it/10.54 (x,y+c)\C70/rm/m/it/10.54/8f �
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 647--648
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 653--654
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 659--660
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 663--664
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
 
  []
 
 [28]
+Underfull \hbox (badness 10000) in paragraph at lines 673--674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 679--680
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 683--684
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 689--690
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 703--704
 
  []
 
-LaTeX Font Info:    Try loading font information for C70+tt on input line 703.
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+LaTeX Font Info:    Try loading font information for C70+tt on input line 723.
 ("D:\Program Files\CTEX\MiKTeX\tex\latex\ctex\fd\c70tt.fd"
 File: c70tt.fd 2007/05/06 v0.8a ctexutf8 font definition file
 )
 Package CJKpunct Info: punctuation spaces for family 'zhfs' do not exist. Use f
-amily 'def' instead. on input line 703.
+amily 'def' instead. on input line 723.
 
-Overfull \hbox (13.53542pt too wide) in paragraph at lines 703--703
+Overfull \hbox (13.53542pt too wide) in paragraph at lines 723--723
 []\C70/tt/m/n/10.54/30    \OT1/cmtt/m/n/10.54 if the value of the variable j eq
 uals the length of the string q, then j = 0;[] 
  []
 
-[29]
-Underfull \hbox (badness 10000) in paragraph at lines 707--708
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 711--712
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 717--718
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 721--722
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 725--726
+Underfull \hbox (badness 10000) in paragraph at lines 727--728
 
  []
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 742--743
+Underfull \hbox (badness 10000) in paragraph at lines 731--732
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 760--761
+Underfull \hbox (badness 10000) in paragraph at lines 737--738
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 766--767
+Underfull \hbox (badness 10000) in paragraph at lines 741--742
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 770--771
+Underfull \hbox (badness 10000) in paragraph at lines 745--746
 
  []
 
 [31]
-Overfull \hbox (7.38712pt too wide) detected at line 784
+Underfull \hbox (badness 10000) in paragraph at lines 762--763
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 780--781
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 786--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 790--791
+
+ []
+
+[32]
+Overfull \hbox (7.38712pt too wide) detected at line 804
 []
  []
 
 
-Overfull \hbox (26.73245pt too wide) in paragraph at lines 786--787
+Overfull \hbox (26.73245pt too wide) in paragraph at lines 806--807
 []\C70/rm/m/n/10.54/5b � \C70/rm/m/n/10.54/4e � 
  \C70/rm/m/n/10.54/88 h \C70/rm/m/n/10.54/4e - \C70/rm/m/n/10.54/6c � \C70/rm/m
 /n/10.54/67 	\OT1/cmr/m/n/10.54 v\C70/rm/m/n/10.54/76 � \C70/rm/m/n/10.54/52 |
@@ -1640,28 +1656,8 @@ rm/m/n/10.54/59 �\OT1/cmr/m/n/10.54 g[i][j]\C70/rm/m/n/10.54/22 e\OT1/cmr/m/n/1
 1/cmr/m/n/10.54 g[i+1][j]=g[i][j]|\C70/rm/m/n/10.54/ff |
  []
 
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 816--817
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 822--823
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 826--827
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 832--833
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 838--839
+Underfull \hbox (badness 10000) in paragraph at lines 836--837
 
  []
 
@@ -1671,12 +1667,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 842--843
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 848--849
+Underfull \hbox (badness 10000) in paragraph at lines 846--847
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 854--855
+Underfull \hbox (badness 10000) in paragraph at lines 852--853
 
  []
 
@@ -1686,90 +1682,110 @@ Underfull \hbox (badness 10000) in paragraph at lines 858--859
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 863--864
+Underfull \hbox (badness 10000) in paragraph at lines 862--863
 
  []
 
 [34]
-Underfull \hbox (badness 10000) in paragraph at lines 869--870
+Underfull \hbox (badness 10000) in paragraph at lines 868--869
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 873--874
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 878--879
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--884
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--890
 
  []
 
 [35]
-Underfull \hbox (badness 10000) in paragraph at lines 890--891
+Underfull \hbox (badness 10000) in paragraph at lines 893--894
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 896--897
+Underfull \hbox (badness 10000) in paragraph at lines 910--911
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 916--917
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 900--901
+Underfull \hbox (badness 10000) in paragraph at lines 920--921
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 913--914
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 919--920
-
- []
-
-[36] <fig354d_1.png, id=368, 121.20282pt x 109.91063pt>
-File: fig354d_1.png Graphic file (type png)
- <use fig354d_1.png>
-Package pdftex.def Info: fig354d_1.png used on input line 925.
-(pdftex.def)             Requested size: 216.81pt x 196.6331pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 933--934
 
  []
 
-[37 <E:/集训队作业/team_homework/fig354d_1.png>]
-<fig354d_2.png, id=374, 519.9425pt x 377.41pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--940
+
+ []
+
+[37] <fig354d_1.png, id=372, 121.20282pt x 109.91063pt>
+File: fig354d_1.png Graphic file (type png)
+ <use fig354d_1.png>
+Package pdftex.def Info: fig354d_1.png used on input line 945.
+(pdftex.def)             Requested size: 216.81pt x 196.6331pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 953--954
+
+ []
+
+[38 <E:/集训队作业/team_homework/fig354d_1.png>]
+<fig354d_2.png, id=377, 519.9425pt x 377.41pt>
 File: fig354d_2.png Graphic file (type png)
  <use fig354d_2.png>
-Package pdftex.def Info: fig354d_2.png used on input line 954.
+Package pdftex.def Info: fig354d_2.png used on input line 974.
 (pdftex.def)             Requested size: 195.12767pt x 141.63782pt.
 
-<fig354d_3.png, id=375, 519.9425pt x 377.41pt>
+<fig354d_3.png, id=378, 519.9425pt x 377.41pt>
 File: fig354d_3.png Graphic file (type png)
  <use fig354d_3.png>
-Package pdftex.def Info: fig354d_3.png used on input line 959.
+Package pdftex.def Info: fig354d_3.png used on input line 979.
 (pdftex.def)             Requested size: 195.12767pt x 141.63782pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 968--969
+Underfull \hbox (badness 10000) in paragraph at lines 988--989
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 974--975
+Underfull \hbox (badness 10000) in paragraph at lines 994--995
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 978--979
+Underfull \hbox (badness 10000) in paragraph at lines 998--999
 
  []
 
-[38 <E:/集训队作业/team_homework/fig354d_2.png> <E:/集训队作业/team_h
+[39 <E:/集训队作业/team_homework/fig354d_2.png> <E:/集训队作业/team_h
 omework/fig354d_3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 982--983
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1003
 
  []
 
 
-Overfull \hbox (4.9877pt too wide) in paragraph at lines 984--985
+Overfull \hbox (4.9877pt too wide) in paragraph at lines 1004--1005
 []\C70/rm/m/n/10.54/7f Q \C70/rm/m/n/10.54/7e � \C70/rm/m/n/10.54/4e - \C70/rm/
 m/n/10.54/70 � \C70/rm/m/n/10.54/65 p$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (
 \OML/cmm/m/it/10.54 n\OT1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/
@@ -1785,37 +1801,17 @@ rm/m/n/10.54/30 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 988--989
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 992--993
-
- []
-
-[39]
-Underfull \hbox (badness 10000) in paragraph at lines 1013--1014
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1019--1020
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1023--1024
+Underfull \hbox (badness 10000) in paragraph at lines 1012--1013
 
  []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 1029--1030
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1035--1036
+Underfull \hbox (badness 10000) in paragraph at lines 1033--1034
 
  []
 
@@ -1825,7 +1821,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
  []
 
 
-Overfull \hbox (5.01611pt too wide) in paragraph at lines 1041--1042
+Underfull \hbox (badness 10000) in paragraph at lines 1043--1044
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 1049--1050
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1055--1056
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
+
+ []
+
+
+Overfull \hbox (5.01611pt too wide) in paragraph at lines 1061--1062
 []\C70/rm/m/n/10.54/4e �\OT1/cmr/m/n/10.54 'a'\C70/rm/m/n/10.54/52 0\OT1/cmr/m/
 n/10.54 'z'\C70/rm/m/n/10.54/4f � \C70/rm/m/n/10.54/6b ! \C70/rm/m/n/10.54/80 
  \C70/rm/m/n/10.54/86 Q\OT1/cmr/m/n/10.54 26\C70/rm/m/n/10.54/4e * \C70/rm/m/n/
@@ -1841,12 +1857,12 @@ rm/m/n/10.54/7e � \C70/rm/m/n/10.54/80  \C70/rm/m/n/10.54/86 Q \C70/rm/m/n/10.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1049--1050
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
 
  []
 
 
-Overfull \hbox (7.45073pt too wide) in paragraph at lines 1051--1052
+Overfull \hbox (7.45073pt too wide) in paragraph at lines 1071--1072
 []\C70/rm/m/n/10.54/8b � \C70/rm/m/n/10.54/5b W \C70/rm/m/n/10.54/7b & \C70/rm/
 m/n/10.54/4e 2 \C70/rm/m/n/10.54/95 $\OML/cmm/m/it/10.54 L$|\C70/rm/m/n/10.54/
 ff | \C70/rm/m/n/10.54/67 	$\OML/cmm/m/it/10.54 n$\C70/rm/m/n/10.54/4e *\OT1/c
@@ -1863,30 +1879,30 @@ z \C70/rm/m/n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1056
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1076
 
  []
 
-[41] [42]
-Underfull \hbox (badness 10000) in paragraph at lines 1089--1090
+[42] [43]
+Underfull \hbox (badness 10000) in paragraph at lines 1109--1110
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1094
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1114
 .
 ("D:\Program Files\CTEX\MiKTeX\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.54> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1094.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1114.
 
- [43]
-Underfull \hbox (badness 10000) in paragraph at lines 1121--1122
+ [44]
+Underfull \hbox (badness 10000) in paragraph at lines 1141--1142
 
  []
 
 
-Overfull \hbox (15.10457pt too wide) in paragraph at lines 1123--1124
+Overfull \hbox (15.10457pt too wide) in paragraph at lines 1143--1144
 \C70/rm/m/n/10.54/6b ! \C70/rm/m/n/10.54/54  \C70/rm/m/n/10.54/65 � \C70/rm/m/
 n/10.54/8b � \C70/rm/m/n/10.54/7b �|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/6
 0 ; \C70/rm/m/n/10.54/8b �$\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 HW\OT1/cmr/m
@@ -1902,32 +1918,32 @@ m/m/it/10.54 HW$\C70/rm/m/n/10.54/6b ! \C70/rm/m/n/10.54/54  \C70/rm/m/n/10.54
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1127--1128
+Underfull \hbox (badness 10000) in paragraph at lines 1147--1148
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1138--1139
-
- []
-
-[44]
 Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1168--1169
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1179
 
  []
 
 
-Overfull \hbox (9.2967pt too wide) detected at line 1172
+Underfull \hbox (badness 10000) in paragraph at lines 1184--1185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
+
+ []
+
+
+Overfull \hbox (9.2967pt too wide) detected at line 1192
 \OML/cmm/m/it/10.54 z\OT1/cmr/m/n/10.54 " = (1 \OMS/cmsy/m/n/10.54   \OT1/cmr/m
 /n/10.54 i) [] \OML/cmm/m/it/10.54 q[] \OT1/cmr/m/n/10.54 + (\OMS/cmsy/m/n/10.5
 4  \OT1/cmr/m/n/10.54 1 \OMS/cmsy/m/n/10.54   \OT1/cmr/m/n/10.54 i) [] \OML/cmm
@@ -1936,49 +1952,49 @@ Overfull \hbox (9.2967pt too wide) detected at line 1172
 10.54 q[]
  []
 
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1177
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 1196--1197
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1183
+Underfull \hbox (badness 10000) in paragraph at lines 1202--1203
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
-
- []
-
-<figgcj2013a_1.png, id=418, 350.30875pt x 243.91125pt>
-File: figgcj2013a_1.png Graphic file (type png)
- <use figgcj2013a_1.png>
-Package pdftex.def Info: figgcj2013a_1.png used on input line 1192.
-(pdftex.def)             Requested size: 346.89732pt x 241.55103pt.
-
-<figgcj2013a_2.png, id=419, 255.95625pt x 262.9825pt>
-File: figgcj2013a_2.png Graphic file (type png)
- <use figgcj2013a_2.png>
-Package pdftex.def Info: figgcj2013a_2.png used on input line 1200.
-(pdftex.def)             Requested size: 260.17465pt x 267.3317pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
 
  []
 
+<figgcj2013a_1.png, id=421, 350.30875pt x 243.91125pt>
+File: figgcj2013a_1.png Graphic file (type png)
+ <use figgcj2013a_1.png>
+Package pdftex.def Info: figgcj2013a_1.png used on input line 1212.
+(pdftex.def)             Requested size: 346.89732pt x 241.55103pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1212--1213
+<figgcj2013a_2.png, id=422, 255.95625pt x 262.9825pt>
+File: figgcj2013a_2.png Graphic file (type png)
+ <use figgcj2013a_2.png>
+Package pdftex.def Info: figgcj2013a_2.png used on input line 1220.
+(pdftex.def)             Requested size: 260.17465pt x 267.3317pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1226--1227
 
  []
 
-[46]
-Underfull \hbox (badness 10000) in paragraph at lines 1216--1217
+
+Underfull \hbox (badness 10000) in paragraph at lines 1232--1233
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1236--1237
 
  []
 
 
-Overfull \hbox (4.69975pt too wide) in paragraph at lines 1218--1219
+Overfull \hbox (4.69975pt too wide) in paragraph at lines 1238--1239
 []\C70/rm/m/n/10.54/59 � \C70/rm/m/n/10.54/67 � \C70/rm/m/n/10.54/8f � \C70/rm/
 m/n/10.54/4e $ \C70/rm/m/n/10.54/67 a \C70/rm/m/n/10.54/76 � \C70/rm/m/n/10.54/
 7e � \C70/rm/m/n/10.54/90 � \C70/rm/m/n/10.54/66 / \C70/rm/m/n/10.54/5e s \C70/
@@ -1993,75 +2009,75 @@ ML/cmm/m/it/10.54 x$\C70/rm/m/n/10.54/8f t \C70/rm/m/n/10.54/54 �$\OML/cmm/m/it
 54 x[]$\C70/rm/m/n/10.54/54 �$\OML/cmm/m/it/10.54 y[]$|\C70/rm/m/n/10.54/ff |
  []
 
-[47 <E:/集训队作业/team_homework/figgcj2013a_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1226--1227
+[48 <E:/集训队作业/team_homework/figgcj2013a_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1246--1247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1232--1233
+Underfull \hbox (badness 10000) in paragraph at lines 1252--1253
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1236--1237
+Underfull \hbox (badness 10000) in paragraph at lines 1256--1257
 
  []
 
-[48 <E:/集训队作业/team_homework/figgcj2013a_2.png>]
-<figgcj2014c_1.png, id=430, 474.77374pt x 249.93375pt>
+[49 <E:/集训队作业/team_homework/figgcj2013a_2.png>]
+<figgcj2014c_1.png, id=434, 474.77374pt x 249.93375pt>
 File: figgcj2014c_1.png Graphic file (type png)
  <use figgcj2014c_1.png>
-Package pdftex.def Info: figgcj2014c_1.png used on input line 1242.
+Package pdftex.def Info: figgcj2014c_1.png used on input line 1262.
 (pdftex.def)             Requested size: 346.89732pt x 182.62173pt.
 
-<figgcj2014c_2.png, id=431, 455.7025pt x 401.5pt>
+<figgcj2014c_2.png, id=435, 455.7025pt x 401.5pt>
 File: figgcj2014c_2.png Graphic file (type png)
  <use figgcj2014c_2.png>
-Package pdftex.def Info: figgcj2014c_2.png used on input line 1248.
+Package pdftex.def Info: figgcj2014c_2.png used on input line 1268.
 (pdftex.def)             Requested size: 346.89732pt x 305.64552pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+Underfull \hbox (badness 10000) in paragraph at lines 1285--1286
 
  []
 
-[49 <E:/集训队作业/team_homework/figgcj2014c_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1275--1276
+[50 <E:/集训队作业/team_homework/figgcj2014c_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1291--1292
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1279--1280
-
- []
-
-[50 <E:/集训队作业/team_homework/figgcj2014c_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1296--1297
+Underfull \hbox (badness 10000) in paragraph at lines 1295--1296
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1302--1303
+Underfull \hbox (badness 10000) in paragraph at lines 1299--1300
+
+ []
+
+[51 <E:/集训队作业/team_homework/figgcj2014c_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1317
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1306--1307
-
- []
-
-[51]
-Underfull \hbox (badness 10000) in paragraph at lines 1332--1333
+Underfull \hbox (badness 10000) in paragraph at lines 1322--1323
 
  []
 
 
-Overfull \hbox (8.47507pt too wide) in paragraph at lines 1334--1335
+Underfull \hbox (badness 10000) in paragraph at lines 1326--1327
+
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 1352--1353
+
+ []
+
+
+Overfull \hbox (8.47507pt too wide) in paragraph at lines 1354--1355
 []\C70/rm/m/n/10.54/4e � \C70/rm/m/n/10.54/52  \C70/rm/m/n/10.54/7b T \C70/rm/
 m/n/10.54/68 H$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 ([][] \OML/cmm/m/it/10.5
 4 N\OT1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/67 � \C70/rm
@@ -2074,32 +2090,32 @@ OML/cmm/m/it/10.54 j\OT1/cmr/m/n/10.54 ) = \OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1338--1339
+Underfull \hbox (badness 10000) in paragraph at lines 1358--1359
 
  []
 
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 1342--1343
-
- []
-
-
+[53]
 Underfull \hbox (badness 10000) in paragraph at lines 1362--1363
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1368--1369
-
- []
-
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 1372--1373
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 
  []
 
 
-Overfull \hbox (4.45512pt too wide) in paragraph at lines 1374--1375
+Underfull \hbox (badness 10000) in paragraph at lines 1388--1389
+
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 1392--1393
+
+ []
+
+
+Overfull \hbox (4.45512pt too wide) in paragraph at lines 1394--1395
 []\C70/rm/m/n/10.54/5b � \C70/rm/m/n/10.54/4e � \C70/rm/m/n/10.54/67 �$\OML/cmm
 /m/it/10.54 d$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/8b �$\OML/cmm/m/it/10.
 54 k \OT1/cmr/m/n/10.54 = [][]$|\C70/rm/m/n/10.54/ff | $\OML/cmm/m/it/10.54 k[
@@ -2107,53 +2123,33 @@ Overfull \hbox (4.45512pt too wide) in paragraph at lines 1374--1375
 L/cmm/m/it/10.54 k[] >
  []
 
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 1409--1410
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1415--1416
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1419--1420
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1423--1424
-
- []
-
-
+[55]
 Underfull \hbox (badness 10000) in paragraph at lines 1429--1430
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1433--1434
+Underfull \hbox (badness 10000) in paragraph at lines 1435--1436
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1437--1438
+Underfull \hbox (badness 10000) in paragraph at lines 1439--1440
 
  []
 
-[55]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1443--1444
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1447--1448
+Underfull \hbox (badness 10000) in paragraph at lines 1449--1450
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
+Underfull \hbox (badness 10000) in paragraph at lines 1453--1454
 
  []
 
@@ -2162,18 +2158,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 1457--1458
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1465--1466
-
- []
-
 [56]
-Overfull \hbox (0.91167pt too wide) in paragraph at lines 1467--1468
+Underfull \hbox (badness 10000) in paragraph at lines 1463--1464
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
+
+ []
+
+[57]
+Overfull \hbox (0.91167pt too wide) in paragraph at lines 1487--1488
 []\C70/rm/m/n/10.54/5e �\OT1/cmr/m/n/10.54 TRIE\C70/rm/m/n/10.54/65 � \C70/rm/m
 /n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 l\OT
 1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/90 M \C70/rm/m/n/1
@@ -2191,37 +2207,37 @@ m/m/it/10.54 n\OMS/cmsy/m/n/10.54 j\OT1/cmr/m/n/10.54 \OMS/cmsy/m/n/10.54 j\OT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1471--1472
+Underfull \hbox (badness 10000) in paragraph at lines 1491--1492
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1475--1476
+Underfull \hbox (badness 10000) in paragraph at lines 1495--1496
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
+Underfull \hbox (badness 10000) in paragraph at lines 1501--1502
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
+Underfull \hbox (badness 10000) in paragraph at lines 1507--1508
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1500--1501
+Underfull \hbox (badness 10000) in paragraph at lines 1520--1521
 
  []
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 1506--1507
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 1526--1527
 
  []
 
 
-Overfull \hbox (11.78581pt too wide) in paragraph at lines 1508--1509
+Overfull \hbox (11.78581pt too wide) in paragraph at lines 1528--1529
 []\C70/rm/m/n/10.54/4e   \C70/rm/m/n/10.54/5f   \C70/rm/m/n/10.54/59 � \C70/rm/
 m/n/10.54/76 �\OT1/cmr/m/n/10.54 DP\C70/rm/m/n/10.54/72 � \C70/rm/m/n/10.54/60 
 $\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 N[]\OT1/cmr/m/n/
@@ -2238,21 +2254,21 @@ T1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/60 ; \C70/rm/m/n/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1508--1509
+Underfull \hbox (badness 10000) in paragraph at lines 1528--1529
 
  []
 
-[58]
+[59]
 \tf@thm=\write4
  (E:\集训队作业\team_homework\泛做表格.aux) ) 
 Here is how much of TeX's memory you used:
- 13948 strings out of 495354
- 220181 string characters out of 3183075
- 238813 words of memory out of 3000000
- 16396 multiletter control sequences out of 15000+200000
+ 13970 strings out of 495354
+ 220511 string characters out of 3183075
+ 239813 words of memory out of 3000000
+ 16409 multiletter control sequences out of 15000+200000
  66315 words of font info for 232 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 40i,13n,28p,1262b,1760s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,13n,28p,1262b,1765s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simkai.
 ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts
 /simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windo
@@ -2331,9 +2347,9 @@ y10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb>
 ram Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Program Fil
 es/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><D:/Program Files/CTEX
 /MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 泛做表格.pdf (58 pages, 1505348 bytes).
+Output written on 泛做表格.pdf (59 pages, 1511574 bytes).
 PDF statistics:
- 1025 PDF objects out of 1200 (max. 8388607)
+ 1028 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  384 words of extra memory for PDF output out of 10000 (max. 10000000)
 
