@@ -1245,6 +1245,34 @@ while i is less than the length of the string p
 		
 			总时间复杂度$O(n^{1.5})$，空间复杂度最优可以做到$O(n)$。
 	
+	\section{Codeforces 356E - Xenia and String Problem}
+	
+		\myparagraph{题目大意}
+		
+			如果字符串$s$被称为Gray串，当且仅当（$s$中的字符从1到$|s|$编号）
+			
+			\begin{enumerate}
+				\item $|s|$是奇数；
+				\item 字符$s[(|s|+1)/2]$在$s$中只出现一次；
+				\item $|s|=1$或子串$s[1...(|s|+1)/2-1]$和子串$s[(|s|+1)/2+1...|s|]$相同且都是Gray串。
+			\end{enumerate}
+			
+			给定串$t$，对于所有$t$的子串$t'$，如果它是Gray串，那么得分$|t'|^2$。问最多改动$t$中一个字符的情况下，最大得分是多少。
+			
+			$|t| \leq 10^5$，$t$中都是小写字母。
+		
+		\myparagraph{算法讨论}
+		
+			注意到Gray串的长度只能是$2^k-1$($k$为整数)，$t$中的Gray子串最多$O(n\log_2n)$个。首先按照题意$O(n\log_2n)$递推得出每个长度为$2^k-1$的$t$的子串是否是Gray串。这一步需要判断两字符串是否相同（条件3），可用后缀数组或哈希$O(1)$判断（当然需要预处理）。还需要判断中间的字符是否只出现了一次，这可以二进制压位记录$t$的某一段中出现了哪些字符，这可以$O(1)$判断。
+			
+			接着，讨论需要改变字符的情况。如果是改变串最中间的字符，只需满足更改后该字符还是只出现了一次（条件2）。如果更改的是两边的字符，由于只能更改一次，肯定是把一边的改成与之对称的另一边的字符，只要更改后两边都是Gray串即可。这需要找出两侧唯一不同的字符（如果有），可用后缀数组或哈希求两边串的LCP，然后可用之前处理出的$t$的Gray子串来判断。
+			
+			如果子串$l \sim r$原是Gray串，如果改了$l \sim r$间的字符，那么它的得分就没了，在$l$处标记$-(r-l+1)^2$，在$r+1$处标记$+(r-l+1)^2$。如果要改字符，就统计把$x$位置改成字符$y$一共会增加多少得分。从小到大扫描坐标，统计标记的前缀和（减少的得分），加上该位置被修改成其它字符增加的得分，再加上原本就是Gray串带来的得分，对此求最大值即可。
+		
+		\myparagraph{时空复杂度}
+		
+			时间瓶颈在判断是否更改一个字符后可行。这需要先$O(|t\log_2|t|)$枚举候选串，然后需要$O(|\Sigma|)$的时间（$\Sigma$表示字符集）的时间枚举换成什么字符（仅在改变最中间的字符时需要词枚举），总时间$O(|t| \cdot \log_2|t| \cdot |\Sigma|)$，总空间$O(|t|\log_2|t|+|t||\Sigma|)$。
+	
 	\section{CodeJam 2009 Finals B - Min Perimeter}
 	
 		\myparagraph{题目大意}
@@ -1342,7 +1370,7 @@ while i is less than the length of the string p
 		
 		\myparagraph{时空复杂度}
 		
-			记字符串长$L$，有$n$个run，字母数$\Sigma$，共$T$组数据。预处理组合数：时间$O(Ln)$，空间$O(Ln)$。DP：时间$O(T \Sigma n^3)$，空间$O(\Sigma n)$。
+			记字符串长$L$，有$n$个run，字母数$|\Sigma|$，共$T$组数据。预处理组合数：时间$O(Ln)$，空间$O(Ln)$。DP：时间$O(T |\Sigma| n^3)$，空间$O(|\Sigma| n)$。
 	
 	\section{CodeJam 2011 Finals B - Rains Over Atlantis}
 	
