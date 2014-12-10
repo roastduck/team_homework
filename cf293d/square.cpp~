@@ -1,0 +1,63 @@
+#include<cmath>
+#include<cstdio>
+#include<cstring>
+#include<algorithm>
+using namespace std;
+
+const int maxn=1e5+5;
+
+int N, X[maxn], Y[maxn];
+double S0, S1, S2;
+
+#define p(x) (((x)-1+N)%N)
+#define s(x) (((x)+1)%N)
+
+bool Work(int x, int &uu, int &dd, int X[], int Y[])
+{
+	int u, d;
+	if (uu!=dd)
+	{
+		u=(X[p(uu)]>X[s(uu)]?p(uu):s(uu));
+		d=(X[p(dd)]>X[s(dd)]?p(dd):s(dd));
+	} else
+		if (Y[p(uu)]>Y[s(uu)])
+			u=p(uu), d=s(uu);
+		else
+			u=s(uu), d=p(uu);
+	if (x>X[u]) return false;
+	double t, b;
+	t=Y[uu]+floorl((long double)(Y[u]-Y[uu])*(x-X[uu])/(X[u]-X[uu]));
+	b=Y[dd]+ceill((long double)(Y[d]-Y[dd])*(x-X[dd])/(X[d]-X[dd]));
+	S0+=t-b+1;
+	S1+=(t-b+1)*(t+b)/2;
+	S2+=(t*(t+1)*(2*t+1)-(b-1)*b*(2*b-1))/6;
+	if (x==X[u]) uu=u;
+	if (x==X[d]) dd=d;
+	return true;
+}
+
+int main()
+{
+	freopen("square.in","r",stdin);
+	freopen("square.out","w",stdout);
+	scanf("%d",&N);
+	for (int i=0;i<N;i++)
+		scanf("%d%d",&X[i],&Y[i]);
+	int Lu(0), Ld(0), Dl(0), Dr(0);
+	for (int i=1;i<N;i++)
+	{
+		if (X[Lu]>X[i] || X[Lu]==X[i] && Y[Lu]<Y[i]) Lu=i;
+		if (X[Ld]>X[i] || X[Ld]==X[i] && Y[Ld]>Y[i]) Ld=i;
+		if (Y[Dl]>Y[i] || Y[Dl]==Y[i] && X[Dl]>X[i]) Dl=i;
+		if (Y[Dr]>Y[i] || Y[Dr]==Y[i] && X[Dr]<X[i]) Dr=i;
+	}
+	double ans=0;
+	for (int x=X[Lu],uu=Lu,dd=Ld;Work(x,uu,dd,X,Y);x++);
+	ans+=(S0*S2-S1*S1)/(S0*(S0-1))*2;
+	S0=S1=S2=0;
+	for (int y=Y[Dl],ll=Dl,rr=Dr;Work(y,rr,ll,Y,X);y++);
+	ans+=(S0*S2-S1*S1)/(S0*(S0-1))*2;
+	printf("%.10f\n",ans/2);
+	return 0;
+}
+

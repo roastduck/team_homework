@@ -439,6 +439,20 @@
 		
 			FFT。时间复杂度$O(m\log_2m)$，空间复杂度$O(m)$。
 	
+	\section{Codeforces 293D - Ksusha and Square}
+	
+		\myparagraph{题目大意}
+		
+			给一个凸多边形，随机在其内部或边缘上选择两个不同的点，问两点连线的欧几里德距离的平方的期望。凸多边形点数$\leq 10^5$，坐标的绝对值$\leq 10^6$。
+			
+		\myparagraph{算法讨论}
+		
+			要求的是$2\sum_{i,j}((x_i-x_j)^2+(y_i-y_j)^2)$的期望。先分离$x,y$，求$x$和求$y$的过程类似。比方说求$x$上的期望，要求的是$2\sum_{i,j}(x_i-x_j)^2$的期望，展开后可分离一、二次项。对于所有可能的点的横坐标，记其个数为$S_0$，和为$S_1$，平方和为$S_2$，事实上要求的是$(S_0S_2-S_1^2)/(S_0(S_0-1)/2)$。按坐标扫描整个多边形即可得到$S_0,S_1,S_2$。最后把横坐标上的期望和纵坐标上的期望相加即可。
+			
+		\myparagraph{时空复杂度}
+		
+			时间复杂度$O(\mbox{坐标范围}\cdot\mbox{多边形点数})$，空间复杂度$O(\mbox{多边形点数})$。
+	
 	\section{Codeforces 294D - Shaass and Painter Robot}
 	
 		\myparagraph{题目大意}
