@@ -784,6 +784,28 @@
 		
 			直接计算上述公式，时间$O(n)$，空间$O(1)$。
 	
+	\section{Codeforces 316E3 - Summer Homework}
+	
+		\myparagraph{算法讨论}
+		
+			对数列$\{A_n\}$执行如下共$m$条操作和询问。
+			
+			\begin{enumerate}
+				\item 对某元素赋值；
+				\item 对区间$[l_i,r_i]$，求$\sum_{x=0}^{r_i-l_i}(f_x \cdot A_{l_i+x})$，$f$是斐波那契数列。答案对$10^9$取模。
+				\item 对区间$[l_i,r_i]$中的元素都加上$d_i$。
+			\end{enumerate}
+		
+		\myparagraph{算法讨论}
+		
+			假设将询问拆成若干段，对某段$[l',r']$，要求的是$\sum_{x=0}^{r'-l'}(f_{x+c} \cdot A_{l'+x})$。事实上，如果求出了$c=0$和$c=1$的情况，$c$为任意值的情况都可知。原因是$f_{x+c}=f_x \cdot f_{c-2} + f_{x+1} \cdot f_{c-1}$，$c>1$时的和就是$c=0$时的和乘$f_{c-2}$加$c=1$时的和乘$f_{c-1}$。
+			
+			预处理斐波那契数列及其前缀和，用线段树记录每一段区间$c=0$和$c=1$时上述的和即可。修改和查询均很容易实现。
+		
+		\myparagraph{时空复杂度}
+		
+			每次修改或查询需访问一次线段树。总时间$O(m\log_2n)$。总空间$O(n)$。
+	
 	\section{Codeforces 316G3 - Good Substrings}
 		
 		\myparagraph{题目大意}
