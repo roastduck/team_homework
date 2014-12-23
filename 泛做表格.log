@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  23 DEC 2014 11:32
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  23 DEC 2014 15:39
 entering extended mode
 **E:/集训队作业/team_homework/泛做表格.tex
 (E:/集训队作业/team_homework/泛做表格.tex
@@ -2500,27 +2500,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 1901--1902
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1905--1906
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1911--1912
+Underfull \hbox (badness 10000) in paragraph at lines 1907--1908
 
  []
 
 [73]
-Underfull \hbox (badness 10000) in paragraph at lines 1915--1916
+Underfull \hbox (badness 10000) in paragraph at lines 1913--1914
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1919--1920
+Underfull \hbox (badness 10000) in paragraph at lines 1917--1918
 
  []
 
 
-Overfull \hbox (0.91167pt too wide) in paragraph at lines 1921--1922
+Underfull \hbox (badness 10000) in paragraph at lines 1921--1922
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1927--1928
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1931--1932
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1935--1936
+
+ []
+
+[74]
+Overfull \hbox (0.91167pt too wide) in paragraph at lines 1937--1938
 []\C70/rm/m/n/10.54/5e �\OT1/cmr/m/n/10.54 TRIE\C70/rm/m/n/10.54/65 � \C70/rm/m
 /n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 l\OT
 1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/90 M \C70/rm/m/n/1
@@ -2538,37 +2553,37 @@ m/m/it/10.54 n\OMS/cmsy/m/n/10.54 j\OT1/cmr/m/n/10.54 \OMS/cmsy/m/n/10.54 j\OT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1925--1926
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1935--1936
-
- []
-
-[74]
 Underfull \hbox (badness 10000) in paragraph at lines 1941--1942
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1954--1955
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1946
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1960--1961
+Underfull \hbox (badness 10000) in paragraph at lines 1951--1952
 
  []
 
 
-Overfull \hbox (11.78581pt too wide) in paragraph at lines 1962--1963
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1958
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1970--1971
+
+ []
+
+[75]
+Underfull \hbox (badness 10000) in paragraph at lines 1976--1977
+
+ []
+
+
+Overfull \hbox (11.78581pt too wide) in paragraph at lines 1978--1979
 []\C70/rm/m/n/10.54/4e   \C70/rm/m/n/10.54/5f   \C70/rm/m/n/10.54/59 � \C70/rm/
 m/n/10.54/76 �\OT1/cmr/m/n/10.54 DP\C70/rm/m/n/10.54/72 � \C70/rm/m/n/10.54/60 
 $\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 N[]\OT1/cmr/m/n/
@@ -2585,18 +2600,18 @@ T1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/60 ; \C70/rm/m/n/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
+Underfull \hbox (badness 10000) in paragraph at lines 1978--1979
 
  []
 
-[75]
+[76]
 \tf@thm=\write4
  (E:\集训队作业\team_homework\泛做表格.aux) ) 
 Here is how much of TeX's memory you used:
- 14245 strings out of 495354
- 224897 string characters out of 3183075
- 240873 words of memory out of 3000000
- 16636 multiletter control sequences out of 15000+200000
+ 14249 strings out of 495354
+ 224959 string characters out of 3183075
+ 240813 words of memory out of 3000000
+ 16640 multiletter control sequences out of 15000+200000
  70691 words of font info for 247 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  40i,13n,29p,1262b,1793s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2684,9 +2699,9 @@ e1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmtt10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/sym
 bols/msbm10.pfb>
-Output written on 泛做表格.pdf (75 pages, 1678589 bytes).
+Output written on 泛做表格.pdf (76 pages, 1681018 bytes).
 PDF statistics:
- 1142 PDF objects out of 1200 (max. 8388607)
+ 1145 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  392 words of extra memory for PDF output out of 10000 (max. 10000000)
 
