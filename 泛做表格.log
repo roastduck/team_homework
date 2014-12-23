@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  22 DEC 2014 11:22
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  23 DEC 2014 11:03
 entering extended mode
 **E:/集训队作业/team_homework/泛做表格.tex
 (E:/集训队作业/team_homework/泛做表格.tex
@@ -1837,80 +1837,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 1011--1012
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1031--1032
+Underfull \hbox (badness 10000) in paragraph at lines 1017--1018
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1024
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1027--1028
 
  []
 
 [42]
-Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
 
  []
 
-LaTeX Font Info:    Try loading font information for C70+tt on input line 1051.
 
-("D:\Program Files\CTEX\MiKTeX\tex\latex\ctex\fd\c70tt.fd"
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1054
+
+ []
+
+[43]
+LaTeX Font Info:    Try loading font information for C70+tt on input line 1067.
+
+ ("D:\Program Files\CTEX\MiKTeX\tex\latex\ctex\fd\c70tt.fd"
 File: c70tt.fd 2007/05/06 v0.8a ctexutf8 font definition file
 )
 Package CJKpunct Info: punctuation spaces for family 'zhfs' do not exist. Use f
-amily 'def' instead. on input line 1051.
+amily 'def' instead. on input line 1067.
 
-Overfull \hbox (13.53542pt too wide) in paragraph at lines 1051--1051
+Overfull \hbox (13.53542pt too wide) in paragraph at lines 1067--1067
 []\C70/tt/m/n/10.54/30    \OT1/cmtt/m/n/10.54 if the value of the variable j eq
 uals the length of the string q, then j = 0;[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1055--1056
+Underfull \hbox (badness 10000) in paragraph at lines 1071--1072
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1059--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1075--1076
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1065--1066
-
- []
-
-[43]
-Underfull \hbox (badness 10000) in paragraph at lines 1069--1070
+Underfull \hbox (badness 10000) in paragraph at lines 1081--1082
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1073--1074
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1090--1091
+Underfull \hbox (badness 10000) in paragraph at lines 1085--1086
 
  []
 
 [44]
-Underfull \hbox (badness 10000) in paragraph at lines 1108--1109
+Underfull \hbox (badness 10000) in paragraph at lines 1089--1090
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1114--1115
+Underfull \hbox (badness 10000) in paragraph at lines 1106--1107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1118--1119
+Underfull \hbox (badness 10000) in paragraph at lines 1124--1125
 
  []
 
 
-Overfull \hbox (7.38712pt too wide) detected at line 1132
-[]
+Underfull \hbox (badness 10000) in paragraph at lines 1130--1131
+
  []
 
 [45]
-Overfull \hbox (26.73245pt too wide) in paragraph at lines 1134--1135
+Underfull \hbox (badness 10000) in paragraph at lines 1134--1135
+
+ []
+
+
+Overfull \hbox (7.38712pt too wide) detected at line 1148
+[]
+ []
+
+
+Overfull \hbox (26.73245pt too wide) in paragraph at lines 1150--1151
 []\C70/rm/m/n/10.54/5b � \C70/rm/m/n/10.54/4e � 
  \C70/rm/m/n/10.54/88 h \C70/rm/m/n/10.54/4e - \C70/rm/m/n/10.54/6c � \C70/rm/m
 /n/10.54/67 	\OT1/cmr/m/n/10.54 v\C70/rm/m/n/10.54/76 � \C70/rm/m/n/10.54/52 |
@@ -1923,23 +1939,13 @@ rm/m/n/10.54/59 �\OT1/cmr/m/n/10.54 g[i][j]\C70/rm/m/n/10.54/22 e\OT1/cmr/m/n/1
 1/cmr/m/n/10.54 g[i+1][j]=g[i][j]|\C70/rm/m/n/10.54/ff |
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1170--1171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1174--1175
-
- []
-
 [46]
-Underfull \hbox (badness 10000) in paragraph at lines 1178--1179
+Underfull \hbox (badness 10000) in paragraph at lines 1180--1181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1187
 
  []
 
@@ -1949,12 +1955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1190--1191
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1196--1197
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1200--1201
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
 
  []
 
@@ -1983,141 +1984,155 @@ Underfull \hbox (badness 10000) in paragraph at lines 1228--1229
 
  []
 
-[48]
+
 Underfull \hbox (badness 10000) in paragraph at lines 1232--1233
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1237--1238
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1243--1244
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 1238--1239
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1247--1248
+Underfull \hbox (badness 10000) in paragraph at lines 1244--1245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1248--1249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1253--1254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1259--1260
 
  []
 
 [49]
-Underfull \hbox (badness 10000) in paragraph at lines 1255--1256
+Underfull \hbox (badness 10000) in paragraph at lines 1263--1264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1261--1262
+Underfull \hbox (badness 10000) in paragraph at lines 1271--1272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1265--1266
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1281--1282
 
  []
 
 [50]
-Underfull \hbox (badness 10000) in paragraph at lines 1282--1283
+Underfull \hbox (badness 10000) in paragraph at lines 1298--1299
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1288--1289
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1292--1293
+Underfull \hbox (badness 10000) in paragraph at lines 1304--1305
 
  []
 
 [51]
-Underfull \hbox (badness 10000) in paragraph at lines 1305--1306
+Underfull \hbox (badness 10000) in paragraph at lines 1308--1309
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1311--1312
+Underfull \hbox (badness 10000) in paragraph at lines 1321--1322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1327--1328
 
  []
 
 <fig354d_1.png, id=437, 121.20282pt x 109.91063pt>
 File: fig354d_1.png Graphic file (type png)
  <use fig354d_1.png>
-Package pdftex.def Info: fig354d_1.png used on input line 1317.
+Package pdftex.def Info: fig354d_1.png used on input line 1333.
 (pdftex.def)             Requested size: 216.81pt x 196.6331pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1325--1326
+Underfull \hbox (badness 10000) in paragraph at lines 1341--1342
 
  []
 
-[52 <E:/集训队作业/team_homework/fig354d_1.png>]
-<fig354d_2.png, id=442, 519.9425pt x 377.41pt>
+[52] <fig354d_2.png, id=441, 519.9425pt x 377.41pt>
 File: fig354d_2.png Graphic file (type png)
  <use fig354d_2.png>
-Package pdftex.def Info: fig354d_2.png used on input line 1346.
+Package pdftex.def Info: fig354d_2.png used on input line 1362.
 (pdftex.def)             Requested size: 195.12767pt x 141.63782pt.
 
-<fig354d_3.png, id=443, 519.9425pt x 377.41pt>
+<fig354d_3.png, id=442, 519.9425pt x 377.41pt>
 File: fig354d_3.png Graphic file (type png)
  <use fig354d_3.png>
-Package pdftex.def Info: fig354d_3.png used on input line 1351.
+Package pdftex.def Info: fig354d_3.png used on input line 1367.
 (pdftex.def)             Requested size: 195.12767pt x 141.63782pt.
+ [53 <E:/集训队作业/team_homework/fig354d_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1376--1377
 
-Underfull \hbox (badness 10000) in paragraph at lines 1360--1361
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1382--1383
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1366--1367
+Underfull \hbox (badness 10000) in paragraph at lines 1396--1397
 
  []
 
-[53 <E:/集训队作业/team_homework/fig354d_2.png> <E:/集训队作业/team_h
+[54 <E:/集训队作业/team_homework/fig354d_2.png> <E:/集训队作业/team_h
 omework/fig354d_3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1380--1381
+Underfull \hbox (badness 10000) in paragraph at lines 1404--1405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1388--1389
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1411
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1394--1395
-
- []
-
-[54]
-Underfull \hbox (badness 10000) in paragraph at lines 1398--1399
+Underfull \hbox (badness 10000) in paragraph at lines 1414--1415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1406--1407
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1412--1413
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1416--1417
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1420--1421
+Underfull \hbox (badness 10000) in paragraph at lines 1422--1423
 
  []
 
 [55]
-Overfull \hbox (4.9877pt too wide) in paragraph at lines 1422--1423
+Underfull \hbox (badness 10000) in paragraph at lines 1428--1429
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1432--1433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1436--1437
+
+ []
+
+
+Overfull \hbox (4.9877pt too wide) in paragraph at lines 1438--1439
 []\C70/rm/m/n/10.54/7f Q \C70/rm/m/n/10.54/7e � \C70/rm/m/n/10.54/4e - \C70/rm/
 m/n/10.54/70 � \C70/rm/m/n/10.54/65 p$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (
 \OML/cmm/m/it/10.54 n\OT1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/
@@ -2133,31 +2148,16 @@ rm/m/n/10.54/30 |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1426--1427
+Underfull \hbox (badness 10000) in paragraph at lines 1442--1443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1430--1431
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1447
 
  []
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1452
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1457--1458
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1461--1462
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1467--1468
 
  []
@@ -2173,7 +2173,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 1477--1478
  []
 
 
-Overfull \hbox (5.01611pt too wide) in paragraph at lines 1479--1480
+Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1490
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
+
+ []
+
+
+Overfull \hbox (5.01611pt too wide) in paragraph at lines 1495--1496
 []\C70/rm/m/n/10.54/4e �\OT1/cmr/m/n/10.54 'a'\C70/rm/m/n/10.54/52 0\OT1/cmr/m/
 n/10.54 'z'\C70/rm/m/n/10.54/4f � \C70/rm/m/n/10.54/6b ! \C70/rm/m/n/10.54/80 
  \C70/rm/m/n/10.54/86 Q\OT1/cmr/m/n/10.54 26\C70/rm/m/n/10.54/4e * \C70/rm/m/n/
@@ -2188,36 +2203,36 @@ rm/m/n/10.54/7e � \C70/rm/m/n/10.54/80  \C70/rm/m/n/10.54/86 Q \C70/rm/m/n/10.
 70/rm/m/n/10.54/76 �
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1487--1488
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1493--1494
-
- []
-
 [58]
-Underfull \hbox (badness 10000) in paragraph at lines 1527--1528
+Underfull \hbox (badness 10000) in paragraph at lines 1503--1504
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1532
+
+Underfull \hbox (badness 10000) in paragraph at lines 1509--1510
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1543--1544
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1548
 .
 ("D:\Program Files\CTEX\MiKTeX\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.54> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1532.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1548.
 
- [59]
-Underfull \hbox (badness 10000) in paragraph at lines 1559--1560
+ [60]
+Underfull \hbox (badness 10000) in paragraph at lines 1575--1576
 
  []
 
-[60]
-Overfull \hbox (15.10457pt too wide) in paragraph at lines 1561--1562
+
+Overfull \hbox (15.10457pt too wide) in paragraph at lines 1577--1578
 \C70/rm/m/n/10.54/6b ! \C70/rm/m/n/10.54/54  \C70/rm/m/n/10.54/65 � \C70/rm/m/
 n/10.54/8b � \C70/rm/m/n/10.54/7b �|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/6
 0 ; \C70/rm/m/n/10.54/8b �$\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 HW\OT1/cmr/m
@@ -2233,32 +2248,32 @@ m/m/it/10.54 HW$\C70/rm/m/n/10.54/6b ! \C70/rm/m/n/10.54/54  \C70/rm/m/n/10.54
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1565--1566
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1576--1577
+Underfull \hbox (badness 10000) in paragraph at lines 1581--1582
 
  []
 
 [61]
-Underfull \hbox (badness 10000) in paragraph at lines 1596--1597
+Underfull \hbox (badness 10000) in paragraph at lines 1592--1593
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1602--1603
+Underfull \hbox (badness 10000) in paragraph at lines 1612--1613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1606--1607
+Underfull \hbox (badness 10000) in paragraph at lines 1618--1619
+
+ []
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 1622--1623
 
  []
 
 
-Overfull \hbox (9.2967pt too wide) detected at line 1610
+Overfull \hbox (9.2967pt too wide) detected at line 1626
 \OML/cmm/m/it/10.54 z\OT1/cmr/m/n/10.54 " = (1 \OMS/cmsy/m/n/10.54   \OT1/cmr/m
 /n/10.54 i) [] \OML/cmm/m/it/10.54 q[] \OT1/cmr/m/n/10.54 + (\OMS/cmsy/m/n/10.5
 4  \OT1/cmr/m/n/10.54 1 \OMS/cmsy/m/n/10.54   \OT1/cmr/m/n/10.54 i) [] \OML/cmm
@@ -2268,49 +2283,49 @@ Overfull \hbox (9.2967pt too wide) detected at line 1610
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1614--1615
+Underfull \hbox (badness 10000) in paragraph at lines 1630--1631
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1620--1621
+Underfull \hbox (badness 10000) in paragraph at lines 1636--1637
 
  []
 
-[62]
-Underfull \hbox (badness 10000) in paragraph at lines 1624--1625
+
+Underfull \hbox (badness 10000) in paragraph at lines 1640--1641
 
  []
 
 <figgcj2013a_1.png, id=492, 350.30875pt x 243.91125pt>
 File: figgcj2013a_1.png Graphic file (type png)
  <use figgcj2013a_1.png>
-Package pdftex.def Info: figgcj2013a_1.png used on input line 1630.
+Package pdftex.def Info: figgcj2013a_1.png used on input line 1646.
 (pdftex.def)             Requested size: 346.89732pt x 241.55103pt.
 
 <figgcj2013a_2.png, id=493, 255.95625pt x 262.9825pt>
 File: figgcj2013a_2.png Graphic file (type png)
  <use figgcj2013a_2.png>
-Package pdftex.def Info: figgcj2013a_2.png used on input line 1638.
+Package pdftex.def Info: figgcj2013a_2.png used on input line 1654.
 (pdftex.def)             Requested size: 260.17465pt x 267.3317pt.
 
-[63 <E:/集训队作业/team_homework/figgcj2013a_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1644--1645
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 1660--1661
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1650--1651
+Underfull \hbox (badness 10000) in paragraph at lines 1666--1667
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1654--1655
+Underfull \hbox (badness 10000) in paragraph at lines 1670--1671
 
  []
 
-
-Overfull \hbox (4.69975pt too wide) in paragraph at lines 1656--1657
+[64 <E:/集训队作业/team_homework/figgcj2013a_1.png>]
+Overfull \hbox (4.69975pt too wide) in paragraph at lines 1672--1673
 []\C70/rm/m/n/10.54/59 � \C70/rm/m/n/10.54/67 � \C70/rm/m/n/10.54/8f � \C70/rm/
 m/n/10.54/4e $ \C70/rm/m/n/10.54/67 a \C70/rm/m/n/10.54/76 � \C70/rm/m/n/10.54/
 7e � \C70/rm/m/n/10.54/90 � \C70/rm/m/n/10.54/66 / \C70/rm/m/n/10.54/5e s \C70/
@@ -2325,75 +2340,75 @@ ML/cmm/m/it/10.54 x$\C70/rm/m/n/10.54/8f t \C70/rm/m/n/10.54/54 �$\OML/cmm/m/it
 54 x[]$\C70/rm/m/n/10.54/54 �$\OML/cmm/m/it/10.54 y[]$|\C70/rm/m/n/10.54/ff |
  []
 
-[64 <E:/集训队作业/team_homework/figgcj2013a_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1664--1665
+
+Underfull \hbox (badness 10000) in paragraph at lines 1680--1681
+
+ []
+
+[65 <E:/集训队作业/team_homework/figgcj2013a_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1686--1687
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1670--1671
+Underfull \hbox (badness 10000) in paragraph at lines 1690--1691
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1674--1675
-
- []
-
-<figgcj2014c_1.png, id=501, 474.77374pt x 249.93375pt>
+<figgcj2014c_1.png, id=504, 474.77374pt x 249.93375pt>
 File: figgcj2014c_1.png Graphic file (type png)
  <use figgcj2014c_1.png>
-Package pdftex.def Info: figgcj2014c_1.png used on input line 1680.
+Package pdftex.def Info: figgcj2014c_1.png used on input line 1696.
 (pdftex.def)             Requested size: 346.89732pt x 182.62173pt.
 
-<figgcj2014c_2.png, id=502, 455.7025pt x 401.5pt>
+<figgcj2014c_2.png, id=505, 455.7025pt x 401.5pt>
 File: figgcj2014c_2.png Graphic file (type png)
  <use figgcj2014c_2.png>
-Package pdftex.def Info: figgcj2014c_2.png used on input line 1686.
+Package pdftex.def Info: figgcj2014c_2.png used on input line 1702.
 (pdftex.def)             Requested size: 346.89732pt x 305.64552pt.
 
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 1703--1704
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1709--1710
-
- []
-
 [66 <E:/集训队作业/team_homework/figgcj2014c_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1713--1714
+Underfull \hbox (badness 10000) in paragraph at lines 1719--1720
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1717--1718
+Underfull \hbox (badness 10000) in paragraph at lines 1725--1726
 
  []
 
 [67 <E:/集训队作业/team_homework/figgcj2014c_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1734--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1729--1730
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1740--1741
+Underfull \hbox (badness 10000) in paragraph at lines 1733--1734
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1744--1745
+Underfull \hbox (badness 10000) in paragraph at lines 1750--1751
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1756--1757
 
  []
 
 [68]
-Underfull \hbox (badness 10000) in paragraph at lines 1770--1771
+Underfull \hbox (badness 10000) in paragraph at lines 1760--1761
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 1786--1787
 
  []
 
 
-Overfull \hbox (8.47507pt too wide) in paragraph at lines 1772--1773
+Overfull \hbox (8.47507pt too wide) in paragraph at lines 1788--1789
 []\C70/rm/m/n/10.54/4e � \C70/rm/m/n/10.54/52  \C70/rm/m/n/10.54/7b T \C70/rm/
 m/n/10.54/68 H$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 ([][] \OML/cmm/m/it/10.5
 4 N\OT1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/67 � \C70/rm
@@ -2406,32 +2421,32 @@ OML/cmm/m/it/10.54 j\OT1/cmr/m/n/10.54 ) = \OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1776--1777
+Underfull \hbox (badness 10000) in paragraph at lines 1792--1793
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1780--1781
+Underfull \hbox (badness 10000) in paragraph at lines 1796--1797
 
  []
 
-[69]
-Underfull \hbox (badness 10000) in paragraph at lines 1800--1801
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1806--1807
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 1816--1817
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1810--1811
+Underfull \hbox (badness 10000) in paragraph at lines 1822--1823
 
  []
 
 
-Overfull \hbox (4.45512pt too wide) in paragraph at lines 1812--1813
+Underfull \hbox (badness 10000) in paragraph at lines 1826--1827
+
+ []
+
+
+Overfull \hbox (4.45512pt too wide) in paragraph at lines 1828--1829
 []\C70/rm/m/n/10.54/5b � \C70/rm/m/n/10.54/4e � \C70/rm/m/n/10.54/67 �$\OML/cmm
 /m/it/10.54 d$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/8b �$\OML/cmm/m/it/10.
 54 k \OT1/cmr/m/n/10.54 = [][]$|\C70/rm/m/n/10.54/ff | $\OML/cmm/m/it/10.54 k[
@@ -2439,73 +2454,73 @@ Overfull \hbox (4.45512pt too wide) in paragraph at lines 1812--1813
 L/cmm/m/it/10.54 k[] >
  []
 
-[70]
-Underfull \hbox (badness 10000) in paragraph at lines 1847--1848
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1853--1854
-
- []
-
 [71]
-Underfull \hbox (badness 10000) in paragraph at lines 1857--1858
+Underfull \hbox (badness 10000) in paragraph at lines 1863--1864
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1861--1862
+Underfull \hbox (badness 10000) in paragraph at lines 1869--1870
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1867--1868
+Underfull \hbox (badness 10000) in paragraph at lines 1873--1874
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1871--1872
+Underfull \hbox (badness 10000) in paragraph at lines 1877--1878
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1875--1876
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1881--1882
+Underfull \hbox (badness 10000) in paragraph at lines 1883--1884
 
  []
 
 [72]
-Underfull \hbox (badness 10000) in paragraph at lines 1885--1886
+Underfull \hbox (badness 10000) in paragraph at lines 1887--1888
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1889--1890
+Underfull \hbox (badness 10000) in paragraph at lines 1891--1892
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1895--1896
+Underfull \hbox (badness 10000) in paragraph at lines 1897--1898
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1899--1900
+Underfull \hbox (badness 10000) in paragraph at lines 1901--1902
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1903--1904
+Underfull \hbox (badness 10000) in paragraph at lines 1905--1906
 
  []
 
 
-Overfull \hbox (0.91167pt too wide) in paragraph at lines 1905--1906
+Underfull \hbox (badness 10000) in paragraph at lines 1911--1912
+
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 1915--1916
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1919--1920
+
+ []
+
+
+Overfull \hbox (0.91167pt too wide) in paragraph at lines 1921--1922
 []\C70/rm/m/n/10.54/5e �\OT1/cmr/m/n/10.54 TRIE\C70/rm/m/n/10.54/65 � \C70/rm/m
 /n/10.54/95 �$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 l\OT
 1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/90 M \C70/rm/m/n/1
@@ -2523,37 +2538,37 @@ m/m/it/10.54 n\OMS/cmsy/m/n/10.54 j\OT1/cmr/m/n/10.54 \OMS/cmsy/m/n/10.54 j\OT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1909--1910
-
- []
-
-[73]
-Underfull \hbox (badness 10000) in paragraph at lines 1913--1914
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1919--1920
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 1925--1926
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1938--1939
+Underfull \hbox (badness 10000) in paragraph at lines 1929--1930
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1935--1936
 
  []
 
 [74]
-Underfull \hbox (badness 10000) in paragraph at lines 1944--1945
+Underfull \hbox (badness 10000) in paragraph at lines 1941--1942
 
  []
 
 
-Overfull \hbox (11.78581pt too wide) in paragraph at lines 1946--1947
+Underfull \hbox (badness 10000) in paragraph at lines 1954--1955
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1960--1961
+
+ []
+
+
+Overfull \hbox (11.78581pt too wide) in paragraph at lines 1962--1963
 []\C70/rm/m/n/10.54/4e   \C70/rm/m/n/10.54/5f   \C70/rm/m/n/10.54/59 � \C70/rm/
 m/n/10.54/76 �\OT1/cmr/m/n/10.54 DP\C70/rm/m/n/10.54/72 � \C70/rm/m/n/10.54/60 
 $\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 N[]\OT1/cmr/m/n/
@@ -2570,7 +2585,7 @@ T1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/60 ; \C70/rm/m/n/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1946--1947
+Underfull \hbox (badness 10000) in paragraph at lines 1962--1963
 
  []
 
@@ -2578,13 +2593,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 1946--1947
 \tf@thm=\write4
  (E:\集训队作业\team_homework\泛做表格.aux) ) 
 Here is how much of TeX's memory you used:
- 14232 strings out of 495354
- 224676 string characters out of 3183075
- 240813 words of memory out of 3000000
- 16629 multiletter control sequences out of 15000+200000
+ 14245 strings out of 495354
+ 224897 string characters out of 3183075
+ 240873 words of memory out of 3000000
+ 16636 multiletter control sequences out of 15000+200000
  70691 words of font info for 247 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 40i,13n,29p,1262b,1755s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,13n,29p,1262b,1793s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simkai.
 ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts
 /simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windo
@@ -2669,7 +2684,7 @@ e1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmti10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmtt10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsfonts/sym
 bols/msbm10.pfb>
-Output written on 泛做表格.pdf (75 pages, 1674120 bytes).
+Output written on 泛做表格.pdf (75 pages, 1678154 bytes).
 PDF statistics:
  1142 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
