@@ -51,13 +51,11 @@ int main()
 		{
 			if (A[x1+j][y1]-A[x1][y1]<j) break;
 			if (B[x1][y1+j]-B[x1][y1]<j) break;
+			if (C[x1+j][y1+j]-C[x1][y1+j]-C[x1+j][y1]+C[x1][y1]<j*j) break;
 			if (A[x1+j][y1+j]-A[x1][y1+j]<j) continue;
 			if (B[x1+j][y1+j]-B[x1+j][y1]<j) continue;
-			if (C[x1+j][y1+j]-C[x1][y1+j]-C[x1+j][y1]+C[x1][y1]==j*j)
-			{
-				YES=true;
-				a1=x1, b1=y1, a2=x1+j, b2=y1+j;
-			}
+			YES=true;
+			a1=x1, b1=y1, a2=x1+j, b2=y1+j;
 		}
 	}
 	if (!YES) return puts("NO"), 0;
