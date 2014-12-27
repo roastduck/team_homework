@@ -261,6 +261,29 @@
 		
 			打表。打表时间$O(n^2k^2)$，实际时间$O(1)$。打表所需空间$O(n^2k)$，实际所需空间$O(n^2k)$。
 	
+	\section{Codeforces 258D - Little Elephant and Broken Sorting}
+	
+		\myparagraph{题目大意}
+		
+			给一个数列$\{p_n\}$，进行$m$次操作，每次以50\%的概率交换$p_{a_i}$和$p_{b_i}$。问最后逆序对的期望个数。$n,m \leq 1000$。
+		
+		\myparagraph{算法讨论}
+		
+			维护数组$f_{i,j}$表示$p_i>p_j$的概率。交换$a_i$和$b_i$时，
+			
+			$$f_{a_i,b_i}=f_{b_i,a_i}=0.5$$
+			
+			对每个$x,x\not=a_i,x\not=b_i$，
+			
+			$$f_{x,a_i}=f_{x,b_i}=0.5(f_{x,a_i}+f_{x,b_i})$$
+			$$f_{a_i,x}=f_{b_i,x}=0.5(f_{a_i,x}+f_{b_i,x})$$
+			
+			直接维护$f$数组即可。最后扫描$f$数组出解。
+		
+		\myparagraph{时空复杂度}
+		
+			直接维护。时间$O(n^2)$，空间$O(n^2)$。
+	
 	\section{Codeforces 260E - Dividing Kingdom}
 	
 		\myparagraph{题目大意}
