@@ -365,31 +365,35 @@
 \contentsline {paragraph}{题目大意}{84}
 \contentsline {paragraph}{算法讨论}{84}
 \contentsline {paragraph}{时空复杂度}{84}
-\contentsline {section}{\numberline {91}USACO 2009 Jan gold - Safe Travel}{84}
+\contentsline {section}{\numberline {91}USACO 2008 Dec gold 4 - Fence}{84}
 \contentsline {paragraph}{题目大意}{84}
 \contentsline {paragraph}{算法讨论}{84}
 \contentsline {paragraph}{时空复杂度}{85}
-\contentsline {section}{\numberline {92}USACO 2010 Dec gold 3 - Threatening Letter}{85}
+\contentsline {section}{\numberline {92}USACO 2009 Jan gold - Safe Travel}{85}
 \contentsline {paragraph}{题目大意}{85}
 \contentsline {paragraph}{算法讨论}{85}
 \contentsline {paragraph}{时空复杂度}{85}
-\contentsline {section}{\numberline {93}USACO US OPEN 10 - Triangle Counting}{85}
-\contentsline {paragraph}{题目大意}{85}
-\contentsline {paragraph}{算法讨论}{85}
-\contentsline {paragraph}{时空复杂度}{86}
-\contentsline {section}{\numberline {94}USACO 2012 Mar gold 3 - Cows in a Skyscrape}{86}
+\contentsline {section}{\numberline {93}USACO 2010 Dec gold 3 - Threatening Letter}{86}
 \contentsline {paragraph}{题目大意}{86}
 \contentsline {paragraph}{算法讨论}{86}
 \contentsline {paragraph}{时空复杂度}{86}
-\contentsline {section}{\numberline {95}USACO 2012 Dec gold 2 - First!}{86}
+\contentsline {section}{\numberline {94}USACO US OPEN 10 - Triangle Counting}{86}
 \contentsline {paragraph}{题目大意}{86}
-\contentsline {paragraph}{算法讨论}{87}
+\contentsline {paragraph}{算法讨论}{86}
 \contentsline {paragraph}{时空复杂度}{87}
-\contentsline {section}{\numberline {96}USACO 2013 US Open gold - Photo}{87}
+\contentsline {section}{\numberline {95}USACO 2012 Mar gold 3 - Cows in a Skyscrape}{87}
 \contentsline {paragraph}{题目大意}{87}
 \contentsline {paragraph}{算法讨论}{87}
 \contentsline {paragraph}{时空复杂度}{87}
-\contentsline {section}{\numberline {97}USACO 2013 US Open gold - Figure Eight}{87}
+\contentsline {section}{\numberline {96}USACO 2012 Dec gold 2 - First!}{87}
 \contentsline {paragraph}{题目大意}{87}
+\contentsline {paragraph}{算法讨论}{87}
+\contentsline {paragraph}{时空复杂度}{88}
+\contentsline {section}{\numberline {97}USACO 2013 US Open gold - Photo}{88}
+\contentsline {paragraph}{题目大意}{88}
 \contentsline {paragraph}{算法讨论}{88}
 \contentsline {paragraph}{时空复杂度}{88}
+\contentsline {section}{\numberline {98}USACO 2013 US Open gold - Figure Eight}{88}
+\contentsline {paragraph}{题目大意}{88}
+\contentsline {paragraph}{算法讨论}{89}
+\contentsline {paragraph}{时空复杂度}{89}
