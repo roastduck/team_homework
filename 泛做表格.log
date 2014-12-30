@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  30 DEC 2014 08:50
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.22)  30 DEC 2014 10:52
 entering extended mode
 **E:/é›†è®­é˜Ÿä½œä¸š/team_homework/æ³›åšè¡¨æ ¼.tex
 (E:/é›†è®­é˜Ÿä½œä¸š/team_homework/æ³›åšè¡¨æ ¼.tex
@@ -2738,27 +2738,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 2232--2233
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2238--2239
+Overfull \hbox (13.39195pt too wide) in paragraph at lines 2234--2235
+[]\C70/rm/m/n/10.54/67 4 \C70/rm/m/n/10.54/7d   \C70/rm/m/n/10.54/76 „\OT1/cmr/
+m/n/10.54 DP\C70/rm/m/n/10.54/7b — \C70/rm/m/n/10.54/6c Õ \C70/rm/m/n/10.54/66 
+/|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/8b ¾$\OML/cmm/m/it/10.54 f\OT1/cmr/
+m/n/10.54 [\OML/cmm/m/it/10.54 i\OT1/cmr/m/n/10.54 ]$\C70/rm/m/n/10.54/88 h \C7
+0/rm/m/n/10.54/79 : \C70/rm/m/n/10.54/5c  \C70/rm/m/n/10.54/65 p \C70/rm/m/n/1
+0.54/52  M$\OML/cmm/m/it/10.54 i$\C70/rm/m/n/10.54/4e * \C70/rm/m/n/10.54/51 C
+ \C70/rm/m/n/10.54/7d   \C70/rm/m/n/10.54/52  \C70/rm/m/n/10.54/62  \C70/rm/m
+/n/10.54/82 å \C70/rm/m/n/10.54/5e r \C70/rm/m/n/10.54/6b µ \C70/rm/m/n/10.54/7
+6 „ \C70/rm/m/n/10.54/67   \C70/rm/m/n/10.54/5c  \C70/rm/m/n/10.54/67 C \C70/r
+m/m/n/10.54/50 < \C70/rm/m/n/10.54/54 Œ|\C70/rm/m/n/10.54/ff | $\OML/cmm/m/it/
+10.54 f\OT1/cmr/m/n/10.54 [\OML/cmm/m/it/10.54 i\OT1/cmr/m/n/10.54 ] = [][] \OM
+L/cmm/m/it/10.54 f\OT1/cmr/m/n/10.54 [\OML/cmm/m/it/10.54 j\OT1/cmr/m/n/10.54 ]
+ +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2236--2237
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2244--2245
+Underfull \hbox (badness 10000) in paragraph at lines 2242--2243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2248--2249
+Underfull \hbox (badness 10000) in paragraph at lines 2246--2247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2254--2255
+Underfull \hbox (badness 10000) in paragraph at lines 2252--2253
 
  []
 
 [86]
-Overfull \hbox (23.36725pt too wide) in paragraph at lines 2256--2257
+Underfull \hbox (badness 10000) in paragraph at lines 2258--2259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2262--2263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2268--2269
+
+ []
+
+
+Overfull \hbox (23.36725pt too wide) in paragraph at lines 2270--2271
 []\C70/rm/m/n/10.54/63 ’ \C70/rm/m/n/10.54/5e $\OML/cmm/m/it/10.54 O\OT1/cmr/m
 /n/10.54 (\OML/cmm/m/it/10.54 n [][] n\OT1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/f
 f | \C70/rm/m/n/10.54/62 k \C70/rm/m/n/10.54/63 Ï \C70/rm/m/n/10.54/67   \C70/
@@ -2774,21 +2806,6 @@ n/10.54/76 „$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 n [][
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2260--2261
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2264--2265
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2268--2269
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 2274--2275
 
  []
@@ -2798,13 +2815,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 2278--2279
 
  []
 
-
+[87]
 Underfull \hbox (badness 10000) in paragraph at lines 2282--2283
 
  []
 
-[87]
-Overfull \hbox (0.91167pt too wide) in paragraph at lines 2284--2285
+
+Underfull \hbox (badness 10000) in paragraph at lines 2288--2289
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2292--2293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2296--2297
+
+ []
+
+
+Overfull \hbox (0.91167pt too wide) in paragraph at lines 2298--2299
 []\C70/rm/m/n/10.54/5e ú\OT1/cmr/m/n/10.54 TRIE\C70/rm/m/n/10.54/65 ö \C70/rm/m
 /n/10.54/95 ô$\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 l\OT
 1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/90 M \C70/rm/m/n/1
@@ -2822,37 +2854,37 @@ m/m/it/10.54 n\OMS/cmsy/m/n/10.54 j\OT1/cmr/m/n/10.54 \OMS/cmsy/m/n/10.54 j\OT
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2288--2289
+Underfull \hbox (badness 10000) in paragraph at lines 2302--2303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2292--2293
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2298--2299
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2304--2305
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2317--2318
+Underfull \hbox (badness 10000) in paragraph at lines 2306--2307
 
  []
 
 [88]
-Underfull \hbox (badness 10000) in paragraph at lines 2323--2324
+Underfull \hbox (badness 10000) in paragraph at lines 2312--2313
 
  []
 
 
-Overfull \hbox (11.78581pt too wide) in paragraph at lines 2325--2326
+Underfull \hbox (badness 10000) in paragraph at lines 2318--2319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2331--2332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2337--2338
+
+ []
+
+
+Overfull \hbox (11.78581pt too wide) in paragraph at lines 2339--2340
 []\C70/rm/m/n/10.54/4e   \C70/rm/m/n/10.54/5f   \C70/rm/m/n/10.54/59 Ë \C70/rm/
 m/n/10.54/76 „\OT1/cmr/m/n/10.54 DP\C70/rm/m/n/10.54/72 ¶ \C70/rm/m/n/10.54/60 
 $\OML/cmm/m/it/10.54 O\OT1/cmr/m/n/10.54 (\OML/cmm/m/it/10.54 N[]\OT1/cmr/m/n/
@@ -2869,7 +2901,7 @@ T1/cmr/m/n/10.54 )$|\C70/rm/m/n/10.54/ff | \C70/rm/m/n/10.54/60 ; \C70/rm/m/n/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2325--2326
+Underfull \hbox (badness 10000) in paragraph at lines 2339--2340
 
  []
 
@@ -2877,10 +2909,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2325--2326
 \tf@thm=\write4
  (E:\é›†è®­é˜Ÿä½œä¸š\team_homework\æ³›åšè¡¨æ ¼.aux) ) 
 Here is how much of TeX's memory you used:
- 14384 strings out of 495354
- 227089 string characters out of 3183075
- 244593 words of memory out of 3000000
- 16747 multiletter control sequences out of 15000+200000
+ 14373 strings out of 495354
+ 226881 string characters out of 3183075
+ 244565 words of memory out of 3000000
+ 16745 multiletter control sequences out of 15000+200000
  71588 words of font info for 250 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  40i,14n,29p,1262b,1812s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2969,7 +3001,7 @@ onts/type1/public/amsfonts/cm/cmsy7.pfb><D:/Program Files/CTEX/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmti10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmtt10.pfb><D:/Program Files/CTEX/MiKTeX/fonts/type1/public/amsf
 onts/symbols/msbm10.pfb>
-Output written on æ³›åšè¡¨æ ¼.pdf (89 pages, 1782030 bytes).
+Output written on æ³›åšè¡¨æ ¼.pdf (89 pages, 1784189 bytes).
 PDF statistics:
  1200 PDF objects out of 1200 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
